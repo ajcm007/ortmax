@@ -1,0 +1,1 @@
+El archivo excel es la base de datos y ajcm es el modelo para etiqueta

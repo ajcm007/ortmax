@@ -1,0 +1,365 @@
+ub BUSCARLOTE()
+'
+' BUSCARLOTE Macro
+'
+
+'
+    ActiveCell.FormulaR1C1 = "CIDIGO LOTE"
+    Range("K22").Select
+    Columns("K:K").ColumnWidth = 29
+    ActiveCell.FormulaR1C1 = "=CONCATENATE(RC[-10],RC[-9])"
+    Columns("K:K").ColumnWidth = 35.86
+    Range("L21").Select
+    ActiveCell.FormulaR1C1 = "LOTE ACTUAL"
+    Range("N21").Select
+    ActiveCell.FormulaR1C1 = "LOTE EN SISTEMA"
+    Range("P21").Select
+    ActiveCell.FormulaR1C1 = "CANTIDAD"
+    Range("L22").Select
+    Columns("L:L").ColumnWidth = 17.57
+    Columns("L:L").ColumnWidth = 21.14
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-1],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C13,7,0)"
+    Range("N22").Select
+    Columns("N:N").ColumnWidth = 20.29
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-13],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C4:C9,6,0)"
+    Range("P22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-13],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C13,11,0)"
+    Range("P22").Select
+    Selection.ClearContents
+    Range("P22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-5],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C13,11,0)"
+    Range("K22:P22").Select
+    Selection.AutoFill Destination:=Range("K22:P94"), Type:=xlFillDefault
+    Range("K22:P94").Select
+    ActiveWindow.ScrollRow = 69
+    ActiveWindow.ScrollRow = 68
+    ActiveWindow.ScrollRow = 67
+    ActiveWindow.ScrollRow = 59
+    ActiveWindow.ScrollRow = 57
+    ActiveWindow.ScrollRow = 55
+    ActiveWindow.ScrollRow = 53
+    ActiveWindow.ScrollRow = 38
+    ActiveWindow.ScrollRow = 35
+    ActiveWindow.ScrollRow = 33
+    ActiveWindow.ScrollRow = 26
+    ActiveWindow.ScrollRow = 25
+    ActiveWindow.ScrollRow = 24
+    ActiveWindow.ScrollRow = 23
+    ActiveWindow.ScrollRow = 19
+    ActiveWindow.ScrollRow = 18
+    ActiveWindow.ScrollRow = 17
+    ActiveWindow.ScrollRow = 16
+    ActiveWindow.ScrollRow = 14
+    ActiveWindow.ScrollRow = 13
+    ActiveWindow.ScrollRow = 12
+    ActiveWindow.ScrollRow = 11
+    ActiveWindow.ScrollRow = 10
+    ActiveWindow.ScrollRow = 9
+    ActiveWindow.ScrollRow = 8
+    ActiveWindow.ScrollRow = 7
+    ActiveWindow.ScrollRow = 6
+    ActiveWorkbook.Save
+    Range("K21:P21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 65535
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Columns("K:P").Select
+    Range("K6").Activate
+    Columns("K:P").EntireColumn.AutoFit
+    Range("K11").Select
+    ActiveWorkbook.Save
+    Range("N28").Select
+    ActiveWindow.SmallScroll ToRight:=1
+    Range("Q21").Select
+    Columns("Q:Q").ColumnWidth = 3.14
+    Range("R21").Select
+    ActiveCell.FormulaR1C1 = "CANTIDAD SISTEMA"
+    Range("R22").Select
+    Columns("Q:Q").ColumnWidth = 3.43
+    Range("R21").Select
+    Selection.Cut Destination:=Range("S21")
+    Range("R22").Select
+    ActiveCell.FormulaR1C1 = "=CONCATENATE(RC[-17],RC[-4])"
+    ActiveWindow.SmallScroll ToRight:=3
+    Columns("R:R").EntireColumn.AutoFit
+    Range("R21").Select
+    ActiveCell.FormulaR1C1 = "CODIGO LOTE SISTEMA"
+    Range("S22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-1],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C14,11,0)"
+    Range("R22:S22").Select
+    Selection.AutoFill Destination:=Range("R22:S94"), Type:=xlFillDefault
+    Range("R22:S94").Select
+    ActiveWindow.SmallScroll Down:=-51
+    Range("R21:T21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 5296274
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Columns("R:R").ColumnWidth = 36.14
+    Range("N22").Select
+End Sub
+
+
+
+=------------------
+
+Sub AJCMBUSCAROK()
+'
+' AJCMBUSCAROK Macro
+'
+
+'
+    ActiveSheet.Paste
+    Range("L21").Select
+    ActiveSheet.Paste
+    Range("N21").Select
+    ActiveSheet.Paste
+    Range("P21").Select
+    ActiveSheet.Paste
+    Columns("P:P").ColumnWidth = 24.71
+    Range("Q21").Select
+    Columns("Q:Q").ColumnWidth = 1
+    Range("S21").Select
+    Columns("R:R").ColumnWidth = 11.86
+    Range("R21").Select
+    ActiveSheet.Paste
+    Range("J21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 65535
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Range("L21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent2
+        .TintAndShade = 0.799981688894314
+        .PatternTintAndShade = 0
+    End With
+    Range("N21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent2
+        .TintAndShade = 0.799981688894314
+        .PatternTintAndShade = 0
+    End With
+    Range("P21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent6
+        .TintAndShade = 0.799981688894314
+        .PatternTintAndShade = 0
+    End With
+    Range("R21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent6
+        .TintAndShade = 0.799981688894314
+        .PatternTintAndShade = 0
+    End With
+    Range("J22").Select
+    ActiveCell.FormulaR1C1 = "=CONCATENATE(RC[-9],RC[-8])"
+    Range("L22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-2],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C14,11,0)"
+    ActiveWindow.SmallScroll ToRight:=2
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-2],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C14,5,0)"
+    Range("L23").Select
+    Windows("BODEGA_EQUIPOS_QUIR.xlsx").Activate
+    Windows("P13NAC2-ARIX CLAVICULA #1.xlsx").Activate
+    Range("L22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-2],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C14,7,0)"
+    Range("L22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-2],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C14,7,0)"
+    Range("N22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-4],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C14,7,0)"
+    Range("N22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-4],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C14,1,0)"
+    Range("N22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-4],'[BODEGA_EQUIPOS_QUIR.xlsx]Reporte saldos'!C3:C14,11,0)"
+    Range("R21").Select
+    Selection.Copy
+    Range("T21").Select
+    ActiveSheet.Paste
+    Columns("S:S").ColumnWidth = 2
+    Columns("R:R").ColumnWidth = 22.29
+    Range("R21").Select
+    Application.CutCopyMode = False
+    ActiveCell.FormulaR1C1 = "LOTE"
+    Range("P22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-6],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C3:C14,11,0)"
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 4
+    Range("P22").Select
+    Selection.ClearContents
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-6],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C3:C14,11,0)"
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 1
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 4
+    Selection.ClearContents
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-15],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,10,0)"
+    Windows("BODEGA_PRINCIAL.xlsx").Activate
+    Windows("P13NAC2-ARIX CLAVICULA #1.xlsx").Activate
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-15],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,12,0)"
+    Range("P23").Select
+    Application.WindowState = xlNormal
+    Windows("BODEGA_PRINCIAL.xlsx").Activate
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 1
+    Columns("D:M").Select
+    Windows("P13NAC2-ARIX CLAVICULA #1.xlsx").Activate
+    Range("P22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-15],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,10,0)"
+    Range("P23").Select
+    Application.WindowState = xlNormal
+    Windows("BODEGA_PRINCIAL.xlsx").Activate
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 1
+    ActiveWindow.ScrollColumn = 2
+    Range("D1").Select
+    ActiveCell.FormulaR1C1 = "1"
+    Range("D2").Select
+    ActiveWindow.ScrollColumn = 1
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 7
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 7
+    Windows("P13NAC2-ARIX CLAVICULA #1.xlsx").Activate
+    Range("P22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-15],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,1,0)"
+    Range("P23").Select
+    ActiveWindow.SmallScroll ToRight:=2
+    Range("P22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-15],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,1,0)"
+    Range("R22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-17],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,1,0)"
+    Range("R22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-17],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,6,0)"
+    Range("R22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-17],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,6,0)"
+    Range("T22").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-19],'[BODEGA_PRINCIAL.xlsx]Reporte saldos'!C4:C14,10,0)"
+    Range("J22:T22").Select
+    Selection.AutoFill Destination:=Range("J22:T188"), Type:=xlFillDefault
+    Range("J22:T188").Select
+    ActiveWindow.ScrollRow = 163
+    ActiveWindow.ScrollRow = 162
+    ActiveWindow.ScrollRow = 160
+    ActiveWindow.ScrollRow = 159
+    ActiveWindow.ScrollRow = 158
+    ActiveWindow.ScrollRow = 157
+    ActiveWindow.ScrollRow = 156
+    ActiveWindow.ScrollRow = 155
+    ActiveWindow.ScrollRow = 153
+    ActiveWindow.ScrollRow = 151
+    ActiveWindow.ScrollRow = 149
+    ActiveWindow.ScrollRow = 147
+    ActiveWindow.ScrollRow = 122
+    ActiveWindow.ScrollRow = 119
+    ActiveWindow.ScrollRow = 116
+    ActiveWindow.ScrollRow = 114
+    ActiveWindow.ScrollRow = 104
+    ActiveWindow.ScrollRow = 101
+    ActiveWindow.ScrollRow = 81
+    ActiveWindow.ScrollRow = 80
+    ActiveWindow.ScrollRow = 78
+    ActiveWindow.ScrollRow = 77
+    ActiveWindow.ScrollRow = 63
+    ActiveWindow.ScrollRow = 61
+    ActiveWindow.ScrollRow = 59
+    ActiveWindow.ScrollRow = 48
+    ActiveWindow.ScrollRow = 47
+    ActiveWindow.ScrollRow = 46
+    ActiveWindow.ScrollRow = 45
+    ActiveWindow.ScrollRow = 42
+    ActiveWindow.ScrollRow = 41
+    ActiveWindow.ScrollRow = 39
+    ActiveWindow.ScrollRow = 38
+    ActiveWindow.ScrollRow = 31
+    ActiveWindow.ScrollRow = 28
+    ActiveWindow.ScrollRow = 26
+    ActiveWindow.ScrollRow = 24
+    ActiveWindow.ScrollRow = 18
+    ActiveWindow.ScrollRow = 17
+    ActiveWindow.ScrollRow = 16
+    ActiveWindow.ScrollRow = 15
+    ActiveWindow.ScrollRow = 13
+    ActiveWindow.ScrollRow = 12
+    ActiveWindow.ScrollRow = 11
+    ActiveWindow.ScrollRow = 10
+    ActiveWindow.ScrollRow = 5
+    ActiveWindow.ScrollRow = 4
+    ActiveWindow.ScrollRow = 3
+    ActiveWindow.ScrollRow = 2
+    ActiveWindow.ScrollRow = 1
+    ActiveWindow.ScrollRow = 2
+    ActiveWindow.ScrollRow = 3
+    ActiveWindow.ScrollRow = 4
+    ActiveWindow.ScrollRow = 5
+    ActiveWindow.ScrollRow = 6
+    ActiveWindow.ScrollRow = 7
+    ActiveWindow.ScrollRow = 8
+    ActiveWindow.ScrollRow = 9
+    ActiveWindow.ScrollRow = 10
+    ActiveWindow.ScrollRow = 11
+    ActiveWindow.ScrollRow = 13
+    ActiveWindow.ScrollRow = 15
+    ActiveWindow.ScrollRow = 16
+    Range("W25").Select
+    ActiveWorkbook.Save
+End Sub

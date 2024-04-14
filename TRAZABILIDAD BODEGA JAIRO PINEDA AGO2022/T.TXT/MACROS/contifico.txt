@@ -1,0 +1,90 @@
+Un favor, tengo la necesidad de crear un producto, pero lo compro a diferentes proveedores y tienen codigos diferentes, necesito crear un codigo unico pero que me relacione ese codigo con el producto de los diferentes proveedores
+
+Registrar Producto - Código de Catálogo:
+Registrar Producto - Impuesto a las Botellas Plásticas No Retornables:
+Registrar Producto - Variable de Producto:
+Marca
+Registrar Producto - Conversión de Unidades:
+Registrar Producto - Código de Barra:
+Registrar Producto - Precio máximo de compra:
+Registrar Movimiento - Restringir Stock x Bodega:
+Registrar Movimiento - Mostrar serie en productos:
+Registrar Movimiento - Habilitar Generar Movimientos con aprobación:
+Producto - Campos Personalizados:
+
+Ordenar Items Alfabéticamente (Saldos y movimientos de Inventario):
+
+---
+Logo image here 
+Alberto Caicedo 11:14 am
+hola
+Karen Denisse 11:14 am
+Bienvenido al chat de Soporte Siigo Contífico. Estoy aquí para ayudarte!!
+Buen dia
+Alberto Caicedo 11:15 am
+Karen, buen dia.
+Karen Denisse 11:15 am
+numero de ruc Rzon social
+Alberto Caicedo 11:15 am
+0957116478001
+Karen Denisse 11:15 am
+ok listo comenteme
+en que podemos ayudarle
+Alberto Caicedo 11:16 am
+un favor, necesito que en los reportes de inventario / saldo, se pueda ver la columna de productos "Campo Adicional Catálogo:"
+Karen Denisse 11:20 am
+https://contifico.portaldeclientes.siigo.ec/basedeconocimiento/reporte-saldos-inventario-disponibles/
+Alberto Caicedo 11:22 am
+no tengo el habilitado el campo MARCA
+Karen Denisse 11:23 am
+ok listo permitame verificar
+Alberto Caicedo 11:24 am
+y tiene otros campos que pueda habilitar para tener conocimiento de que tengo.
+Karen Denisse 11:30 am
+listo ya esta mi estimado
+me confirma si ya le sale
+si por supuesto este se lo habilito desde otras configuraciones
+}ahi se le activa
+me confirma si ya le sale
+por favor
+Alberto Caicedo 11:46 am
+si estoy verificando y esta bien.
+un favor, que otros campos se pueden habilitar en productos?
+Karen Denisse 11:50 am
+Registrar Producto - Código de Catálogo:
+Registrar Producto - Impuesto a las Botellas Plásticas No Retornables:
+Registrar Producto - Variable de Producto:
+Marca
+Registrar Producto - Conversión de Unidades:
+Registrar Producto - Código de Barra:
+Registrar Producto - Precio máximo de compra:
+Registrar Movimiento - Restringir Stock x Bodega:
+Registrar Movimiento - Mostrar serie en productos:
+Registrar Movimiento - Habilitar Generar Movimientos con aprobación:
+Producto - Campos Personalizados:
+
+Ordenar Items Alfabéticamente (Saldos y movimientos de Inventario):
+Karen Denisse 11:51 am
+Algo mi estimado en que le pueda ayudar?
+Alberto Caicedo 11:52 am
+como se trabaja --Campos Personalizados
+Karen Denisse 11:52 am
+en mi compañia - otras configuraciones
+ahi puede ubicar los campos que desea personalizar
+Alberto Caicedo 11:53 am
+puedo habilitar uno para anexar un codigo interno? a un producto
+Karen Denisse 11:56 am
+campo codigo mi estimado
+eso lo ubica directamente en el producto
+https://contifico.portaldeclientes.siigo.ec/
+comparto información de portal de clientes
+aqui va a encontrar todo lo relacionado a la plataforma
+igual cualquier inquietud adicional estamos para servirle
+Alberto Caicedo 11:57 am
+tengo la necesidad de crear un producto, pero lo compro a diferentes proveedores y tienen codigos diferentes, necesito crear un codigo unico pero que me relacione ese codigo con el producto de los diferentes proveedorestengo la necesidad de crear un producto, pero lo compro a diferentes proveedores y tienen codigos diferentes, necesito crear un código único pero que me relacione ese código
+con el producto de los diferentes proveedores
+Karen Denisse 12:03 pm
+https://contifico.portaldeclientes.siigo.ec/bc/b-1-otras-configuraciones/
+comparto
+Karen Denisse 12:06 pm
+https://contifico.portaldeclientes.siigo.ec/bc/inventario/

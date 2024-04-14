@@ -1,0 +1,484 @@
+{
+  "WalletECNewCtaDescriptionCashback": "ativar o programa de cashback",
+  "WalletECNewCtaDescriptionCoupon": "aplicar cupons automaticamente",
+  "WalletECNewCtaDescriptionFillAddress": "preencher automaticamente suas informaÃ§Ãµes de envio",
+  "WalletECNewCtaDescriptionFillDetail": "preencher suas informaÃ§Ãµes de cobranÃ§a e envio",
+  "WalletECNewCtaDescriptionFillPayment": "preencher suas informaÃ§Ãµes de cobranÃ§a",
+  "WalletECNewCtaDescriptionGiftCard": "resgatar cartÃ£o-presente",
+  "WalletECNewCtaDescriptionTakeToBNPL": "levÃ¡-lo para $1",
+  "WalletECNewUXErrorMessageForAutofill": "O preenchimento automÃ¡tico nÃ£o conseguiu completar todos os seus detalhes. Basta inseri-los manualmente para concluir sua compra.",
+  "WalletECNewUXErrorMessageForCashback": "NÃ£o foi possÃ­vel aplicar o reembolso Ã  sua compra agora. Tente novamente mais tarde.",
+  "WalletECNewUXErrorMessageForCoupon": "O teste de cupom nÃ£o estÃ¡ disponÃ­vel no momento, mas vocÃª ainda pode testar os cupons manualmente.",
+  "WalletECNewUXErrorMessageForGiftCard": "NÃ£o foi possÃ­vel aplicar seu cartÃ£o-presente a esta compra. $1",
+  "WalletECNewUXErrorMessageForGiftCardLink": "Exibir status do cartÃ£o-presente",
+  "WalletECNewUXForNoSuccessMessage": "Desculpe, nÃ£o podemos ajudar agora",
+  "WalletECNewUXForNoWorkingCoupon": "NÃ£o encontramos nenhum cupom em funcionamento",
+  "WalletECNewUXMultiErrorMessageForAutofill": "preenchimento automÃ¡tico",
+  "WalletECNewUXMultiErrorMessageForCashback": "reembolso",
+  "WalletECNewUXMultiErrorMessageForCoupon": "cupons",
+  "WalletECNewUXMultiErrorMessageForiftCard": "cartÃ£o-presente",
+  "WalletECNewUXPartialSuccessMessageForAutofill": "Alguns de seus detalhes foram preenchidos. Insira as informaÃ§Ãµes restantes para concluir sua compra",
+  "WalletECNewUXSSuccessMessageForCouponAndGiftCard": "VocÃª jÃ¡ economizou $1 com o melhor cupom e cartÃ£o-presente",
+  "WalletECNewUXSuccessMessageForAutofill": "Seus detalhes de finalizaÃ§Ã£o de compra foram preenchidos",
+  "WalletECNewUXSuccessMessageForCashback": "VocÃª receberÃ¡ atÃ© $1 em reembolso de $2",
+  "WalletECNewUXSuccessMessageForCoupon": "VocÃª jÃ¡ economizou $1 com o melhor cupom",
+  "WalletECNewUXSuccessMessageForGiftCard": "VocÃª jÃ¡ economizou $1 com cartÃ£o-presente",
+  "WalletECSimplifyAutofillSubTitle": "Ativar para habilitar o preenchimento automÃ¡tico",
+  "WalletECSimplifyAutofillTitle": "Detalhes do autopreenchimento da finalizaÃ§Ã£o da compra",
+  "WalletECUXSimplifyCtaDescriptionSaving": "aplicar economia",
+  "walletBNPLSmallCardBottomMessagePayInFour": "O $1 tambÃ©m oferece pagamentos mensais com juros.",
+  "walletBNPLSmallCardBottomMessageZip": "O Zip tambÃ©m oferece pagamentos mensais com juros.",
+  "walletBNPLSmallCardFooterMessage": "A Microsoft nÃ£o cobra nem Ã© paga por estes provedores.",
+  "walletBNPLSmallCardTitle": "A compra serÃ¡ dividida em 4 parcelas",
+  "walletBNPLSmallCardTitleBothFinancedAndPayInFour": "A compra serÃ¡ dividida em 4 parcelas",
+  "walletChangeYourSettings": "alterar suas configuraÃ§Ãµes",
+  "walletDrawerFormPageMicroFeedbackPrompt": "Satisfeito com a Carteira?",
+  "walletDrawerGiftCardAuofillMultipleFailureTitle": "Aplique automaticamente seu cartÃ£o-presente a este pedido. Verifique seu email para obter o nÃºmero do cartÃ£o-presente e insira-o manualmente para usÃ¡-lo.",
+  "walletDrawerGiftCardAutofillFailureTitle": "NÃ£o foi possÃ­vel aplicar automaticamente seu cartÃ£o-presente a este pedido. Verifique seu email para obter o nÃºmero do cartÃ£o-presente e insira-o manualmente para usÃ¡-lo.",
+  "walletDrawerGiftCardRedeemFailureTitle": "NÃ£o foi possÃ­vel resgatar seus pontos do Rewards como cartÃ£o-presente. VocÃª pode continuar com o pedido ou tentar a transaÃ§Ã£o novamente mais tarde.",
+  "walletDrawerGiftCardRedeemMultipleFailureTitle": "Resgate seus pontos do Rewards como um cartÃ£o-presente.",
+  "walletECAllFailureMessageBottom": "NÃ£o se preocupe, vocÃª ainda pode continuar sua transaÃ§Ã£o.",
+  "walletECAllFailureTitle": "Os seguintes recursos nÃ£o estÃ£o disponÃ­veis no momento:",
+  "walletECApplyCashBackTitle": "Reembolso",
+  "walletECApplyCashCackTitle": "VocÃª receberÃ¡ atÃ© $1 de reembolso.",
+  "walletECApplySavingTitle": "VocÃª economizarÃ¡ $1 e receberÃ¡ atÃ© $2 de reembolso.",
+  "walletECAutoApplyApplyingBestCouponsNew": "Aplicando o melhor cupom que encontramos...",
+  "walletECAutoApplyFailureTitle": "O teste de cupom nÃ£o estÃ¡ disponÃ­vel no momento, mas vocÃª ainda pode testar os cupons manualmente.",
+  "walletECAutoApplyFeature": "Testar cupons",
+  "walletECAutoApplyTryingCoupons": "Tentando $1...",
+  "walletECAutofillErrorMessage": "Detalhes de preenchimento automÃ¡tico",
+  "walletECAutofillPaymentOnlySingleErrorMessage": "O preenchimento automÃ¡tico nÃ£o conseguiu completar todos os seus detalhes. Insira-os manualmente para continuar sua transaÃ§Ã£o.",
+  "walletECAutofillPaymentOnlySuccessMessage": "Preenchemos automaticamente seus detalhes de pagamento para um checkout rÃ¡pido.",
+  "walletECAvailableRewardsPoints": "$1 pontos disponÃ­veis",
+  "walletECCancelCouponButton": "Ignorar cupons",
+  "walletECCancelCouponFooter": "45% dos usuÃ¡rios economizaram com cupons",
+  "walletECCancelCouponStatus": "AplicaÃ§Ã£o de cupons cancelada",
+  "walletECCashBackAndCouponTitle": "Reembolso e cupons",
+  "walletECCashBackDisplayValue": "AtÃ© $1",
+  "walletECCashBackEnableErrorMessage": "NÃ£o foi possÃ­vel aplicar o reembolso Ã  sua compra no momento. Tente mais tarde.",
+  "walletECCashBackEnableSubErrorMessage": "Ativar reembolso",
+  "walletECCashBackInfo": "VocÃª receberÃ¡ atualizaÃ§Ãµes por email e acompanharÃ¡ os detalhes do reembolso em $1.",
+  "walletECCashBackOptionText": "Obter reembolso",
+  "walletECCashBackUpto": "AtÃ© $1",
+  "walletECCashbackActivateFailedLabel": "NÃ£o foi possÃ­vel ativar o cashback para essa compra. Tente novamente mais tarde.",
+  "walletECCashbackActivateLabel": "Ativar reembolso",
+  "walletECCashbackEnrollDisclaimer": "VocÃª serÃ¡ conectado ao Microsoft Edge que farÃ¡ backup dos dados de navegaÃ§Ã£o e permitirÃ¡ que vocÃª veja seus favoritos, senhas, histÃ³rico e muito mais em todos os seus dispositivos. VocÃª tambÃ©m ingressarÃ¡ e receberÃ¡ emails sobre $1, que incluem ofertas sobre produtos de parceiros. $2 | $3",
+  "walletECCashbackLinkLabel": "Veja os detalhes da oferta de $1",
+  "walletECCashbackPrivacyLinkLabel": "PolÃ­tica de Privacidade",
+  "walletECCashbackSigninLabel": "Ingresse agora e ative o reembolso",
+  "walletECCashbackStatus": "Reembolso ativado",
+  "walletECCashbackTermsLinkLabel": "Termos",
+  "walletECContinueSavingsAndFillDetailsButtonLabel": "Aplicar as economias e continuar",
+  "walletECContinueSavingsAndFillDetailsLabel": "Ao continuar, ativaremos o programa de cashback, aplicaremos cupons automaticamente e preencheremos suas informaÃ§Ãµes de envio e cobranÃ§a.",
+  "walletECContinueSavingsAndFillDetailsLabelBNPL": "Ao continuar, ativaremos o programa de cashback, aplicaremos cupons automaticamente, preencheremos automaticamente seus dados de envio e o levaremos para $1",
+  "walletECContinueSavingsAndFillDetailsNoCouponLabel": "Ao continuar, ativaremos o programa de cashback e preencheremos suas informaÃ§Ãµes para entrega e cobranÃ§a.",
+  "walletECContinueSavingsAndFillDetailsNoCouponLabelBNPL": "Ao continuar, ativaremos o programa de cashback, preencheremos automaticamente seus dados de envio e o levaremos para $1",
+  "walletECContinueSavingsButtonLabel": "Aplicar economia",
+  "walletECContinueSavingsLabel": "Ao continuar, ativaremos o programa de cashback e aplicaremos cupons automaticamente.",
+  "walletECContinueSavingsNoCouponLabel": "Ao continuar, ativaremos o programa de cashback.",
+  "walletECCouponAverageSaving": "Em mÃ©dia, foi economizado $1",
+  "walletECCouponOptionText": "Utilize o cupom",
+  "walletECCouponsCookieDisclaimer": "Permito a colocaÃ§Ã£o de $1 no meu dispositivo para ajudar na cobranÃ§a com o provedor de cupom de acordo com $2",
+  "walletECCouponsCookieDisclaimerPrivacyLinkLabel": "PolÃ­tica de Privacidade da Microsoft",
+  "walletECEnjoyMessage": "Aproveite o restante da sua jornada de compras.",
+  "walletECFillDetailsButtonLabelUXSimplify": "PreencherÂ detalhes",
+  "walletECFreBannerContent": "Encontre as melhores ofertas com cupons e dinheiro de volta, tudo antes de pagar.",
+  "walletECFreBannerTitle": "Economize tempo e dinheiro com a Carteira no Microsoft Edge",
+  "walletECGetCashbackLabel": "VocÃª pode obter atÃ© $1 em cashback em US$2",
+  "walletECGiftCardTitle": "CartÃ£o-presente",
+  "walletECManagePersonalInfo": "Gerenciar informaÃ§Ãµes pessoais",
+  "walletECMaskedCardDetailFetching": "Inserir seu CVC para continuar",
+  "walletECMaskedFetchErrorMessage": "Tente novamente e insira seu CVC quando solicitado. Ou selecione outra forma de pagamento para continuar.",
+  "walletECNewCtaDescriptionTemplateFive": "Ao continuar, ganharemos $1, $2, $3, $4 e $5.",
+  "walletECNewCtaDescriptionTemplateFour": "Ao continuar, vamos $1, $2, $3 e $4.",
+  "walletECNewCtaDescriptionTemplateOne": "Ao continuar, vamos $1.",
+  "walletECNewCtaDescriptionTemplateThree": "Continuando, vamos $1, $2 e $3.",
+  "walletECNewCtaDescriptionTemplateTwo": "Ao continuar, vamos $1 e $2.",
+  "walletECNewShippingAddressTitle": "Detalhes da entrega",
+  "walletECNewUXErrorMessageTemplateFive": "Os $1, $2, $3, $4 e $5 nÃ£o estÃ£o disponÃ­veis no momento. NÃ£o se preocupe, vocÃª ainda pode concluir sua transaÃ§Ã£o.",
+  "walletECNewUXErrorMessageTemplateFour": "Os $1, $2, $3 e $4 nÃ£o estÃ£o disponÃ­veis no momento. NÃ£o se preocupe, vocÃª ainda pode concluir sua transaÃ§Ã£o.",
+  "walletECNewUXErrorMessageTemplateThree": "Os $1, $2 e $3 nÃ£o estÃ£o disponÃ­veis no momento. NÃ£o se preocupe, vocÃª ainda pode concluir sua transaÃ§Ã£o.",
+  "walletECNewUXErrorMessageTemplateTwo": "Os $1 e $2 nÃ£o estÃ£o disponÃ­veis no momento. NÃ£o se preocupe, vocÃª ainda pode concluir sua transaÃ§Ã£o.",
+  "walletECNoSavedAddress": "Nenhum endereÃ§o salvo",
+  "walletECNoSavedName": "Nenhum nome salvo",
+  "walletECRebatesCouponsSelectorDescription": "Aplicamos os melhores descontos para vocÃª e vimos que vocÃª pode usar apenas um para esta compra. Selecione uma das opÃ§Ãµes abaixo para continuar.",
+  "walletECRebatesCouponsSelectorTitle": "Escolher uma para continuar",
+  "walletECReturnToCheckoutButtonAria": "Feche o painel e retorne Ã  pÃ¡gina de checkout",
+  "walletECRewardsDonotRedeemOptionPoints": "NÃ£o resgate pontos de recompensa",
+  "walletECRewardsNoGiftCardSelected": "Nenhum cartÃ£o-presente selecionado",
+  "walletECRewardsPointsAndAvailableRewardsPoints": "$1/$2 pontos",
+  "walletECRewardsRedeemOptionPoints": "$1 ponto",
+  "walletECRewardsRedeemOptionTitle": "Resgatar cartÃ£o-presente de $1",
+  "walletECRewardsTitle": "CartÃ£o-presente do Microsoft Rewards",
+  "walletECSavingsButtonLabelUXSimplify": "Aplicar economias e preencher detalhes",
+  "walletECSavingsDisableMessage": "$1 para ativar o cashback e aplicar cupons automaticamente. Com isso, vocÃª pode economizar tempo e dinheiro ao fazer compras no Edge.",
+  "walletECShoppingInfo": "VocÃª estÃ¡ usando cupons e reembolso para compras da Microsoft.",
+  "walletECShoppingInfoForCoupon": "e cupons",
+  "walletECShoppingInfoNew": "VocÃª estÃ¡ usando o dinheiro de volta de compras da Microsoft $1.",
+  "walletECSkipCouponProgressStatus": "Ignorando cupons...",
+  "walletECThirdPartyCookies": "cookies deÂ terceiros",
+  "walletECTokenizationCardDetailFetching": "Estamos nos conectando com seu banco para gerar detalhes do cartÃ£o para esta transaÃ§Ã£o. Isso pode levar alguns segundos.",
+  "walletECTokenizationFetchErrorMessage": "NÃ£o Ã© possÃ­vel gerar detalhes do cartÃ£o virtual. Tente novamente ou escolha outro cartÃ£o.",
+  "walletECUXAffirmDescription": "Dividir pagamentos em 8 semanas",
+  "walletECUXAffirmDescriptionFinanced": "Compre agora, pague depois com 0 Affirm.",
+  "walletECUXBNPLDropdownTitle": "CrediÃ¡rio",
+  "walletECUXCardKlarnaDescription": "Sem taxas de juros, taxas atrasadas podem ser aplicadas",
+  "walletECUXKlarnaDescription": "Compre agora, pague depois com o Klarna.",
+  "walletECUXManagePaymentButtonTitle": "Gerenciar formas de pagamento",
+  "walletECUXNewAddressDropdownLabel": "Selecionar o endereÃ§o para entrega",
+  "walletECUXNewOnlyCardDropdowMZ       ÿÿ  ¸       @                                   8  º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+$       †‘.nÂğ@=Âğ@=Âğ@=ËˆÓ=Öğ@=B‹½=Æğ@=B‹D<Èğ@=B‹C<Àğ@=B‹E<êğ@=B‹A<Äğ@=
+ŒD<Êğ@=‚C<Àğ@=‚D<Äğ@=‚F<Ãğ@=‚A<äğ@=O‹E<çğ@=O‹A<Ëğ@=ÂğA=<ò@=O‹I<‹ğ@=O‹@<Ãğ@=O‹¿=Ãğ@=O‹B<Ãğ@=RichÂğ@=                PE  d† oä        ğ " ! ¼       0;       @                             å¤  `Á                                    ’	 H  h¦	 €   ğ
+ È   
+ 8R   º
+ ¨%     0  à| Œ                   €} (    { @           Ğ                           .text   |º     ¼                   `.rdata  ~3  Ğ  4  À             @  @.data   r   
+  P   ô	             @  À.pdata  8R   
+  T   D
+             @  @.rsrc   È   ğ
+     ˜
+             @  @.reloc  0         ¤
+             @  B                                                                                                                                                                                                                @UHƒì A¸
+   HMÉ Hvi
+ èY8  3íH‰-‡i
+ WÀfŒi
+ DEH1É Hji
+ è-8  H‰-}i
+ WÀf‚i
+ DEHÉ H`i
+ è8  H‰-si
+ WÀfxi
+ DEHÉ HVi
+ èÙ7  H‰-ii
+ WÀfni
+ DEHëÈ HLi
+ è¯7  H‰-_i
+ WÀfdi
+ DEHÑÈ HBi
+ è…7  H‰-Ui
+ WÀfZi
+ DEH·È H8i
+ è[7  H‰-Ki
+ WÀfPi
+ DEHÈ H.i
+ è17  H‰-Ai
+ WÀfFi
+ DEH‹È H$i
+ è7  H‰-7i
+ WÀf<i
+ DEHyÈ Hi
+ èİ6  H‰--i
+ WÀf2i
+ DEHgÈ Hi
+ è³6  H‰-#i
+ WÀf(i
+ DEHUÈ Hi
+ è‰6  H‰-i
+ WÀfi
+ DEHCÈ Hüh
+ è_6  H‰-i
+ WÀfi
+ DEH1È Hòh
+ è56  H‰-i
+ WÀf
+i
+ DE	HÈ Hèh
+ è6  H‰-ûh
+ WÀf i
+ DEHÈ HŞh
+ èá5  Ha© HƒÄ ]é& ÌÌÌÌÌÌÌHƒì(A¸   HßÇ HÈh
+ èC2  HL© HƒÄ(éÏ% ÌÌÌHƒì(A¸   H'É H¸h
+ è2  H,© HƒÄ(éŸ% ÌÌÌHƒì(E3ÀH&÷ H«h
+ èæ1  H© Æ¸h
+  HƒÄ(ék% ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌHƒì8H‹Åÿ	 H3ÄH‰D$(ÿÂ H‹ÈHT$ ÿ‰Â H‹L$(H3Ìè|! HƒÄ8ÃÌÌÌÌÌÌÌHƒì(E3ÀH¦ö H‹h
+ èf1  Hƒ%h
+  WÀf¢h
+ E3ÀH|ö Hh
+ è<1  Ht¨ HƒÄ(éÇ$ ÌÌÌÌÌÌÌÌÌÌÌ@SHƒì`H‹#ÿ	 H3ÄH‰D$PÿåÁ 3ÉH‰L$0IƒÈÿH‰L$@H‰L$HIÿÀfB9@uöH‹ĞHL$0èÙ0  Hƒ|$HHL$0H‹T$@Lrå HCL$0E3ÀHÇD$ 	   èS/  HL$0H‹ØèÖ1  Hƒûÿ•e
+ H‹L$PH3Ìèv  HƒÄ`[ÃHƒì(è9  HĞ§ HƒÄ(é$ ÌÌÌÌÌÌÌ@UHƒì A¸
+   HÄ H¦g
+ è©3  3íH‰-·g
+ WÀf¼g
+ DEHÄ Hšg
+ è}3  H‰-­g
+ WÀf²g
+ DEHoÄ Hg
+ èS3  H‰-£g
+ WÀf¨g
+ DEHUÄ H†g
+ è)3  H‰-™g
+ WÀfg
+ DEH;Ä H|g
+ èÿ2  H‰-g
+ WÀf”g
+ DEH!Ä Hrg
+ èÕ2  H‰-…g
+ WÀfŠg
+ DEHÄ Hhg
+ è«2  H‰-{g
+ WÀf€g
+ DEHíÃ H^g
+ è2  H‰-qg
+ WÀfvg
+ DEHÛÃ HTg
+ èW2  H‰-gg
+ WÀflg
+ DEHÉÃ HJg
+ è-2  H‰-]g
+ WÀfbg
+ DEH·Ã H@g
+ è2  H‰-Sg
+ WÀfXg
+ DEH¥Ã H6g
+ èÙ1  H‰-Ig
+ WÀfNg
+ DEH“Ã H,g
+ è¯1  H‰-?g
+ WÀfDg
+ DEHÃ H"g
+ è…1  H‰-5g
+ WÀf:g
+ DE	HoÃ Hg
+ è[1  H‰-+g
+ WÀf0g
+ DEHUÃ Hg
+ è11  H1¥ HƒÄ ]éS! ÌÌÌÌÌÌÌHƒì(èo@ H0¥ HƒÄ(é3! ÌÌÌÌÌÌÌHƒì(A¸   H H°g
+ ès-  H¥ HƒÄ(éÿ  ÌÌÌH9¥ éğ  ÌÌÌÌHƒì(º   Hèû	 ÿJÁ º   H%ü	 ÿ7Á Hgü	 H‰D$0ƒ%[ü	  Hƒ%[ü	  Hƒ%[ü	  ¹8   è H‰ H‰@H‰;ü	 WÀf@ü	 Hƒ%Hü	  HÇEü	    HÇBü	    Ç ü	   €?L‹Àº   H	ü	 èÄñ H$ü	 H‰D$0ƒ%ü	  Hƒ%ü	  Hƒ%ü	  ¹(   è H‰ H‰@H‰øû	 WÀfıû	 Hƒ%ü	  HÇü	    HÇÿû	    Ç½û	   €?L‹Àº   HÆû	 èAñ H	¤ HƒÄ(é¬ H9¤ é  ÌÌÌÌH9¤ é ÌÌÌÌH9¤ é€ ÌÌÌÌ@USHl$±Hìˆ   HEoH‰EwHƒeo HEoH‰EHEgH‰EHƒeg HEgH‰EHƒe Hƒe/ Hƒe7 A¸   Hƒ2 HMèê.  ¹`  è H‹ØH‰E3ÒA¸`  H‹Èèğ. H‹MoHƒeo H‰MwH‹EgHƒeg H‰EHEwH‰D$0HEH‰D$(ÇD$ è  A¹   EAHUH‹Ëè­ H‰vd
+ H‹MgH…ÉtH‹º   H‹ ÿüÇ H‹MoH…ÉtH‹º   H‹ ÿáÇ H‹U7Hƒúr4HÿÂH‹MH‹ÁHú   rHƒÂ'H‹IøH+ÁHƒÀøHƒøvÿÀÅ Ìèª Hó¢ HÄˆ   []é! ÌÌÌÌÌHƒì(º   HÈú	 ÿz¾ 3ÀHñ¢ WÀH‰û	 fÿú	 H‰û	 H‰û	 H‰û	 H‰û	 ˆÕú	 HƒÄ(éÀ ÌÌÌÌHƒì(º   H d
+ ÿ¾ H£¢ HƒÄ(é– ÌÌÌÌÌÌÌÌÌÌHƒì(¹   èú H‰ H‰@H‰f
+ Hƒ%f
+  WÀff
+ HÇf
+    HÇf
+    óó_ óËe
+ L‹Àº   HÔe
+ è§î H/¢ HƒÄ(é ÌÌÌÌÌÌHƒì(¹   èz ¹   H‰D$0WÀHJ  ‰H‰HH–J H‰HHH‰H‰d
+ Hæ¡ H‰d
+ HƒÄ(é² ÌÌÌÌÌÌHƒì(A¸   H·K Hèc
+ èó(  H¢ HƒÄ(é ÌÌÌH	¢ ép ÌÌÌÌHi¢ é` ÌÌÌÌHi¢ éP ÌÌÌÌHÉ¢ é@ ÌÌÌÌHÉ¢ é0 ÌÌÌÌHƒì(A¸   H?L Hˆc
+ ès(  H£ HƒÄ(éÿ ÌÌÌHƒì(A¸   HL Hxc
+ èC(  Hì¢ HƒÄ(éÏ ÌÌÌHƒì(E3ÀHrc
+ è¡à HÖ¢ HƒÄ(é© ÌÌÌÌÌÌÌÌÌÌÌÌÌHƒì(A¸   H¯c
+ ènà H³¢ HƒÄ(év ÌÌÌÌÌÌÌÌÌÌH©¢ é` ÌÌÌÌHƒì(Hb
+ ÿ· H˜¢ HƒÄ(é; ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌHƒì(A¸$   H/ç HHA
+ ès'  Hl¢ HƒÄ(éÿ ÌÌÌHƒì(A¸   HOç H8A
+ èC'  HL¢ HƒÄ(éÏ ÌÌÌHƒì(A¸   H§ HhA
+ è'  Hl¢ HƒÄ(éŸ ÌÌÌHƒì(E3ÀH&ì H[A
+ èæ&  HO¢ HƒÄ(ér ÌÌÌÌÌÌHƒì(A¸&   H_ HHA
+ è³&  H,¢ HƒÄ(é? ÌÌÌH)¢ é0 ÌÌÌÌHƒì(HMA
+ è¸ H¢ HƒÄ(é Hƒì(A¸   Hë H0A
+ èS&  Hü¡ HƒÄ(éß ÌÌÌHƒì(A¸   Hw3 H(A
+ è#&  HÜ¡ HƒÄ(é¯ ÌÌÌHƒì(H%A
+ èøK HÉ¡ HƒÄ(éŒ Hù¡ é€ ÌÌÌÌHƒì(A¸   H·a H¸N
+ èÃ%  HÜ¡ HƒÄ(éO ÌÌÌHƒì(A¸   H÷a HèN
+ è“%  H¼¡ HƒÄ(é ÌÌÌHƒì(A¸   H_¹ HØL
+ èc%  Hœ¡ HƒÄ(éï ÌÌÌHƒì(A¸   H` HÈL
+ è3%  H|¡ HƒÄ(é¿ ÌÌÌHƒì(A¸
+   H¯[ H˜H
+ è%  H\¡ HƒÄ(é ÌÌÌHƒì(A¸
+   HS HhB
+ èÓ$  H<¡ HƒÄ(é_ ÌÌÌHƒì(A¸   HV HxD
+ è£$  H¡ HƒÄ(é/ ÌÌÌHƒì(A¸   H_ H(L
+ ès$  Hü  HƒÄ(éÿ ÌÌÌHƒì(A¸
+   Hg] H¸I
+ èC$  HÜ  HƒÄ(éÏ ÌÌÌHƒì(A¸   HO] H¨I
+ è$  H¼  HƒÄ(éŸ ÌÌÌHƒì(A¸   HG^ H¸J
+ èã#  Hœ  HƒÄ(éo ÌÌÌHƒì(A¸   H7^ H¨J
+ è³#  H|  HƒÄ(é? ÌÌÌHƒì(A¸   H?b H˜N
+ èƒ#  H\  HƒÄ(é ÌÌÌHƒì(A¸   H7b HˆN
+ èS#  H<  HƒÄ(éß ÌÌÌHƒì(A¸   H/Z HG
+ è##  H  HƒÄ(é¯ ÌÌÌHƒì(A¸   HZ HG
+ èó"  HüŸ HƒÄ(é ÌÌÌHƒì(A¸   H7R HXA
+ èÃ"  HÜŸ HƒÄ(éO ÌÌÌHƒì(A¸   HP Hˆ?
+ è“"  H¼Ÿ HƒÄ(é ÌÌÌHƒì(A¸   HP Hx?
+ èc"  HœŸ HƒÄ(éï ÌÌÌHƒì(A¸   H¿^ HÈK
+ è3"  H|Ÿ HƒÄ(é¿ ÌÌÌHƒì(A¸   H—W HØD
+ è"  H\Ÿ HƒÄ(é ÌÌÌHƒì(A¸   HÏO H(?
+ èÓ!  H<Ÿ HƒÄ(é_ ÌÌÌHƒì(A¸   HG[ H¸G
+ è£!  HŸ HƒÄ(é/ ÌÌÌHƒì(A¸	   HÿZ HhG
+ ès!  Hü HƒÄ(éÿ ÌÌÌHƒì(A¸   H\ HI
+ èC!  HÜ HƒÄ(éÏ ÌÌÌHƒì(A¸   H/ô HhH
+ è!  H¼ HƒÄ(éŸ ÌÌÌHƒì(A¸   Hµ HXJ
+ èã   Hœ HƒÄ(éo ÌÌÌHƒì(A¸   H[ HhG
+ è³   H| HƒÄ(é? ÌÌÌHƒì(A¸   H÷] HØJ
+ èƒ   H\ HƒÄ(é ÌÌÌHƒì(A¸   HïW HÈD
+ èS   H< HƒÄ(éß ÌÌÌHƒì(A¸   HïW H¸D
+ è#   H HƒÄ(é¯ ÌÌÌHƒì(A¸   HïL HH<
+ èó  Hü HƒÄ(é ÌÌÌHƒì(A¸   H§L HØ;
+ èÃ  HÜ HƒÄ(éO ÌÌÌHƒì(A¸   HW HèC
+ è“  H¼ HƒÄ(é ÌÌÌHƒì(A¸   H¿U H¸B
+ èc  Hœ HƒÄ(éï ÌÌÌHƒì(A¸   HßM H(=
+ è3  H| HƒÄ(é¿ ÌÌÌHƒì(A¸   HßP HX?
+ è  H\ HƒÄ(é ÌÌÌHƒì(A¸   HY HèE
+ èÓ  H< HƒÄ(é_ ÌÌÌHƒì(A¸   Hw\ H8I
+ è£  H HƒÄ(é/ ÌÌÌHƒì(A¸   HG[ HHH
+ ès  Hüœ HƒÄ(éÿ ÌÌÌHƒì(A¸   HïZ HøG
+ èC  HÜœ HƒÄ(éÏ ÌÌÌHƒì(A¸   HW HèC
+ è  H¼œ HƒÄ(éŸ ÌÌÌHƒì(A¸   HßZ HØG
+ èã  Hœœ HƒÄ(éo ÌÌÌHƒì(A¸   HÏZ HÈG
+ è³  H|œ HƒÄ(é? ÌÌÌHƒì(A¸   HO Hx=
+ èƒ  H\œ HƒÄ(é ÌÌÌHƒì(A¸   H7M H(<
+ èS  H<œ HƒÄ(éß ÌÌÌHƒì(A¸   H?M H<
+ è#  Hœ HƒÄ(é¯ ÌÌÌHƒì(A¸   HÏM HH<
+ èó  Hü› HƒÄ(é ÌÌÌHƒì(A¸   HM HØ;
+ èÃ  HÜ› HƒÄ(éO ÌÌÌHƒì(A¸$   HM HÈ;
+ è“  H¼› HƒÄ(é ÌÌÌHƒì(A¸   HOO HX=
+ èc  Hœ› HƒÄ(éï ÌÌÌHƒì(A¸   HGI H¨8
+ è3  H|› HƒÄ(é¿ ÌÌÌHƒì(A¸   H÷H H88
+ è  H\› HƒÄ(é ÌÌÌHƒì(A¸   HçS H¨@
+ èÓ  H<› HƒÄ(é_ ÌÌÌHƒì(A¸   H‡P Hø=
+ è£  H› HƒÄ(é/ ÌÌÌHƒì(A¸   HP Hè=
+ ès  Hüš HƒÄ(éÿ ÌÌÌHƒì(A¸   HoH HØ7
+ èC  HÜš HƒÄ(éÏ ÌÌÌHƒì(A¸   HgH Hè7
+ è  H¼š HƒÄ(éŸ ÌÌÌHƒì(A¸   H—M H¸;
+ èã  Hœš HƒÄ(éo ÌÌÌHƒì(A¸   H—Q Hˆ>
+ è³  H|š HƒÄ(é? ÌÌÌHƒì(A¸   HÇG H87
+ èƒ  H\š HƒÄ(é ÌÌÌHƒì(A¸   H—Q Hˆ>
+ èS  H<š HƒÄ(éß ÌÌÌHƒì(A¸	   HÏK H8:
+ è#  Hš HƒÄ(é¯ ÌÌÌHƒì(A¸   HK Hh9
+ èó  Hü™ HƒÄ(é ÌÌÌHƒì(A¸   HçL HØ:
+ èÃ  HÜ™ HƒÄ(éO ÌÌÌHƒì(A¸   HßJ HH9
+ è“  H¼™ HƒÄ(é ÌÌÌHƒì(A¸   H/G H˜6
+ èc  Hœ™ HƒÄ(éï ÌÌÌHƒì(A¸   H‡T H(A
+ è3  H|™ HƒÄ(é¿ ÌÌÌHƒì(A¸   H?Q Hø=
+ è  H\™ HƒÄ(é ÌÌÌHƒì(A¸   HGT Hè@
+ èÓ  H<™ HƒÄ(é_ ÌÌÌHƒì(A¸   HN HX;
+ è£  H™ HƒÄ(é/ ÌÌÌHƒì(A¸   H÷N Hè;
+ ès  Hü˜ HƒÄ(éÿ ÌÌÌHƒì(A¸   H'G HX6
+ èC  HÜ˜ HƒÄ(éÏ ÌÌÌHƒì(A¸   H?J H¨8
+ è  H¼˜ HƒÄ(éŸ ÌÌÌHƒì(A¸   H/K H9
+ èã  Hœ˜ HƒÄ(éo ÌÌÌHƒì(A¸   HwL Hè9
+ è³  H|˜ HƒÄ(é? ÌÌÌHƒì(A¸   H·F HØ5
+ èƒ  H\˜ HƒÄ(é ÌÌÌHƒì(A¸   H_F Hˆ5
+ èS  H<˜ HƒÄ(éß
+ ÌÌÌHƒì(A¸    HI HØ7
+ è#  H˜ HƒÄ(é¯
+ ÌÌÌHƒì(A¸   H_J HH8
+ èó  Hü— HƒÄ(é
+ ÌÌÌHƒì(A¸   HÏH H87
+ èÃ  HÜ— HƒÄ(éO
+ ÌÌÌHƒì(A¸   HŸT HHA
+ è“  H¼— HƒÄ(é
+ ÌÌÌHƒì(A¸   H—T H8A
+ èc  Hœ— HƒÄ(éï	 ÌÌÌHƒì(A¸   H¯T H(A
+ è3  H|— HƒÄ(é¿	 ÌÌÌHƒì(A¸
+   H'D Hx3
+ è  H\— HƒÄ(é	 ÌÌÌHƒì(A¸   H_Q H>
+ èÓ  H<— HƒÄ(é_	 ÌÌÌHƒì(A¸
+   H?Q H>
+ è£  H— HƒÄ(é/	 ÌÌÌHƒì(A¸   HI Hè6
+ ès  Hü– HƒÄ(éÿ ÌÌÌHƒì(A¸!   HÿJ H88
+ èC  HÜ– HƒÄ(éÏ ÌÌÌHƒì(A¸   H¿D HÈ3
+ è  H¼– HƒÄ(éŸ ÌÌÌHƒì(A¸   H7D HX3
+ èã  Hœ– HƒÄ(éo ÌÌÌHƒì(A¸   H÷J Hè7
+ è³  H|– HƒÄ(é? ÌÌÌHƒì(A¸   HÇN H;
+ èƒ  H\– HƒÄ(é ÌÌÌHƒì(A¸   H—I Hè6
+ èS  H<– HƒÄ(éß ÌÌÌHƒì(A¸   H×M HX:
+ è#  H– HƒÄ(é¯ ÌÌÌHƒì(A¸   H¨ HH<
+ èó  Hü• HƒÄ(é ÌÌÌHƒì(A¸   H?B H˜1
+ èÃ  HÜ• HƒÄ(éO ÌÌÌHƒì(A¸   H×G Hˆ5
+ è“  H¼• HƒÄ(é ÌÌÌHƒì(A¸   H·A H1
+ èc  Hœ• HƒÄ(éï ÌÌÌHƒì(A¸!   H¯G HH5
+ è3  H|• HƒÄ(é¿ ÌÌÌHƒì(A¸    HÿL Hx9
+ è  H\• HƒÄ(é ÌÌÌHƒì(A¸   H/L Hˆ8
+ èÓ  H<• HƒÄ(é_ ÌÌÌHƒì(A¸   HçO HØ<
+ è£  H• HƒÄ(é/ ÌÌÌHƒì(A¸   HwH Hˆ5
+ ès  Hü” HƒÄ(éÿ ÌÌÌHƒì(A¸   HÿE HØ3
+ èC  HÜ” HƒÄ(éÏ ÌÌÌHƒì(A¸   HÇM H¨:
+ è  H¼” HƒÄ(éŸ ÌÌÌHƒì(A¸   H§M H˜:
+ èã  Hœ” HƒÄ(éo ÌÌÌHƒì(A¸   H—M Hˆ:
+ è³  H|” HƒÄ(é? ÌÌÌHƒì(A¸   HÿI H˜6
+ èƒ  H\” HƒÄ(é ÌÌÌHƒì(A¸"   HJ Hˆ6
+ èS  H<” HƒÄ(éß ÌÌÌHƒì(A¸   Hç  HX8
+ è#  H” HƒÄ(é¯ ÌÌÌHƒì(A¸   H÷I HH6
+ èó  Hü“ HƒÄ(é ÌÌÌHƒì(A¸   H‡G Hx4
+ èÃ  HÜ“ HƒÄ(éO ÌÌÌHƒì(A¸   HgJ Hè6
+ è“  H¼“ HƒÄ(é ÌÌÌHƒì(A¸   HOH H5
+ èc  Hœ“ HƒÄ(éï ÌÌÌHƒì(A¸   H÷A Hh0
+ è3  H|“ HƒÄ(é¿ ÌÌÌHƒì(A¸   HïC H¸1
+ è  H\“ HƒÄ(é ÌÌÌHƒì(A¸   HçC H¨1
+ èÓ  H<“ HƒÄ(é_ ÌÌÌHƒì(A¸   Hß@ H8/
+ è£  H“ HƒÄ(é/ ÌÌÌHƒì(A¸   H‡N HÈ:
+ ès  Hü’ HƒÄ(éÿ ÌÌÌHƒì(A¸   HoK Hx8
+ èC  HÜ’ HƒÄ(éÏ ÌÌÌHƒì(A¸   HON Hˆ:
+ è  H¼’ HƒÄ(éŸ ÌÌÌHƒì(A¸   HßJ Hø7
+ èã  Hœ’ HƒÄ(éo ÌÌÌHƒì(A¸   HN HH:
+ è³  H|’ HƒÄ(é? ÌÌÌHƒì(A¸   H7L Hø8
+ èƒ  H\’ HƒÄ(é ÌÌÌHY’ é  ÌÌÌÌHY’ éğ ÌÌÌÌHY’ éà ÌÌÌÌHY’ éĞ ÌÌÌÌ@UHl$©Hì   ƒMKÿLMg¸#   ÇEç    ‰EïLEo‰EóH½9
+ ¸$   ÇEë!   ‰E÷º   ‰Eû¸%   ‰Eÿ‰E¸;   ‰E‰E¸=   ‰E‰E#HEOH‰EgHEçH‰EoÇE&   ÇE)   ÇE+   ÇE9   ÇE'@   ÇE+[   ÇE/]   ÇE3{   ÇE7}   ÇE;~   ÇE?    ÇECıÿ  ÇEG   è	Ñ H~‘ HÄ   ]éİ  Ì@UH‹ìHƒìp¸ÿş  ÇEÀ	 
+ f‰EüHU°HEÀÇEÄ  H‰E°Hí8
+ HEşÇEÈ   H‰E¸ÇEÌ…   ÇEĞ€  ÇEÔ  ÇEØ  ÇEÜ  ÇEà  ÇEä	 
+ ÇEè( ) ÇEì/ _ ÇEğ 0ÇEô  ÇEø ` è1Ô H>‘ HƒÄp]é0  ÌÌÌÌL‹ÜHƒì8¸/   ISèf‰D$@HÔ8
+ ICI‰CèIC
+I‰CğèëÓ H‘ HƒÄ8éëÿ ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌH‰\$H‰|$ UH¬$ûÿÿHìğ  3ÿH‰|$ WÀfD$0_D‹ÃH™T HL$ èÿ  ‰|$@H‰|$HH‰|$XH‰|$`D‹ÃHzT HL$HèØ  ÇD$h   H‰|$pWÀfE€D‹ÃHYT HL$pè¯  ÇE   H‰}˜H‰}¨H‰}°D‹ÃH:T HM˜è‰  ‰]¸H‰}ÀWÀfEĞD‹ÃH T HMÀèg  ÇEà   H‰}èH‰}øH‰} D‹ÃHT HMèèA  ÇE   H‰}WÀfE D‹ÃHäS HMè  ÇE0   H‰}8H‰}HH‰}PD‹ÃHÆS HM8èõ
+  ÇEX   H‰}`WÀfEpD‹ÃH¨S HM`èÏ
+  Ç…€      H‰½ˆ   H‰½˜   H‰½    D‹ÃH~S Hˆ   èš
+  Ç…¨   	   H‰½°   WÀf…À   D‹ÃHTS H°   èh
+  Ç…Ğ   
+   H‰½Ø   H‰½è   H‰½ğ   D‹ÃH'S HØ   è3
+  Ç…ø      H‰½   WÀf…  D‹ÃHıR H   è
+  Ç…      H‰½(  H‰½8  H‰½@  D‹ÃHĞR H(  èÌ	  Ç…H     H‰½P  WÀf…`  D‹ÃH¦R HP  èš	  Ç…p     H‰½x  H‰½ˆ  H‰½  D‹ÃHyR Hx  èe	  Ç…˜     H‰½   WÀf…°  D‹ÃHOR H   è3	  Ç…À     H‰½È  H‰½Ø  H‰½à  D‹ÃH"R HÈ  èş  Ç…è     H‰½ğ  WÀf…   D‹ÃHøQ Hğ  èÌ  Ç…     H‰½  H‰½(  H‰½0  D‹ÃHËQ H  è—  Ç…8     H‰½@  WÀf…P  D‹ÃH¡Q H@  èe  Ç…`     H‰½h  H‰½x  H‰½€  D‹ÃHtQ Hh  è0  Ç…ˆ     H‰½  WÀf…   D‹ÃHJQ H  èş  Ç…°     H‰½¸  H‰½È  H‰½Ğ  D‹ÃHQ H¸  èÉ  Ç…Ø     H‰½à  WÀf…ğ  D‹ÃHóP Hà  è—  Ç…      H‰½  H‰½  H‰½   D‹ÃHÆP H  èb  Ç…(     H‰½0  WÀf…@  D‹ÃHœP H0  è0  Ç…P     H‰½X  H‰½h  H‰½p  D‹ÃHoP HX  èû  Ç…x     H‰½€  WÀf…  D‹ÃHEP H€  èÉ  Ç…      H‰½¨  H‰½¸  H‰½À  D‹ÃHP H¨  è”  Ç…È     H‰½Ğ  WÀf…à  D‹ÃHîO HĞ  èb  Ç…ğ     H‰½ø  H‰½  H‰½  D‹ÃHÁO Hø  è-  Ç…     H‰½   WÀf…0  D‹ÃH—O H   èû  Ç…@     H‰½H  H‰½X  H‰½`  D‹ÃHjO HH  èÆ  Ç…h     H‰½p  WÀf…€  D‹ÃH@O Hp  è”  Ç…     H‰½˜  H‰½¨  H‰½°  D‹ÃHO H˜  è_  Ç…¸     H‰½À  WÀf…Ğ  D‹ÃHéN HÀ  è-  Ç…à     WÀó82
+ H‰=A2
+ H…è  H‰…   HD$ H‰…  L   L…  _%‹ÓHı1
+ èìĞ Lp  D‹ÃW(HL$ èTõ Hy‰ Lœ$ğ  I‹[ I‹{(I‹ã]é<ø @UHl$©Hì   ¸:   ÇE÷" < f‰EGHUçHE÷ÇEû> | H‰EçHˆ0
+ HEIÇEÿ   H‰EïÇE  ÇE  ÇE  ÇE 	 ÇE
+  ÇE  ÇE  ÇE  ÇE#  ÇE'  ÇE+  ÇE/  ÇE3  ÇE7  ÇE;  ÇE? \ ÇEC* ? èiË H¦ˆ HÄ   ]ée÷ ÌÌÌÌÌÌÌÌÌL‹ÜHƒì8ICÇD$@\ / I‰CèISèICH:0
+ I‰CğèË Hjˆ HƒÄ8é÷ Ì@UH‹ìHƒìP¸.   ÇEàÿ
+ÿf‰EôHUĞHEàÇEäÿÿH‰EĞH-0
+ HEöÇEèÿÿH‰EØÇEìÿ<ÿÇEğ\ÿ; è·Ê Hˆ HƒÄP]é¶ö ÌÌÌÌÌÌÌÌÌÌH	ˆ é ö ÌÌÌÌHƒì(HE0
+ èàñ HIˆ HƒÄ(é|ö H‹ÄH‰XH‰pH‰x UHh¡HìĞ   H‹ÎĞ	 H3ÄH‰EG3ÉI‹øÿtŸ 3ö‹Ø…Àˆ  H‰u·IƒÈÿH‰uÇH‰uÏIÿÀfB94GuöH‹×HM·èz  Hƒ}ÏHM·H‹UÇL¦~ HCM·E3ÀHÇD$ 
+   èø   3ÒHM×H‹ØDBpèÎ HM×èÍï Hƒûÿt*H€~ èÓ  @856
+ HM×t
+èI]  @ŠŞëLè_  ëôH–~ è©  @85f6
+ HM×tèçV  ëèøX  ŠØ„Àt¹   ÿw H‹ÈH…~ è$  ÿj HM×è	ğ HM·èà  ¶ÃƒğÿÈë ¹   ÿ; D‹ÃHa~ H‹Èèå   ƒÈÿH‹MGH3Ìèbñ Lœ$Ğ   I‹[I‹sI‹{(I‹ã]ÃÌH‰\$H‰t$H‰|$L‹T$(I‹ÙL‹ÙL;Ò‡„   I+ÒL;Âw|M…ÒuI‹ÀëvA·9H4QJAHFº    H+ÁHÑøtëHƒøtHÿÈHƒÁf99uîH‹ÑH‹ÊH…Òt6M‹ÂH‹ÓM…ÒtL‹ÉL+ËA·f;uHƒÂIƒèuìI+ËHÑùH‹Áë
+HƒÁëšHƒÈÿH‹\$H‹t$H‹|$ÃÌH‹ÄH‰PL‰@L‰H SVWHƒì0H‹úHpH‹Ùè   E3ÉH‰t$ L‹ÇH‹ÓH‹ÿø› HƒÄ0_^[ÃH14
+ ÃH‹ÄH‰HH‰PL‰@L‰H SWHƒì8¹   HxÿĞ› H‹ØèÈÿÿÿL‹D$PE3ÉH‹ÓH‰|$ H‹ÿŸ› HƒÄ8_[ÃH‰\$ UVWAVAWHƒì I¾şÿÿÿÿÿÿI‹ØL‹úH‹ùM;Æ‡Ä   HÇA   HƒûsH‰YHÛL‹Ãè= 3íf‰,;é…   H‹Ã3íHƒÈI;ÆvH¸ÿÿÿÿÿÿÿH ë.¹
+   L‹ğH;ÁH¸ÿÿÿÿÿÿÿLBñINH;ÈwVHÉHù   r
+è?  H‹ğëH…Étèdï ëïH‹õH‰_I‹×HÛH‰7L‹ÃL‰wH‹Îè« f‰,3H‹\$hHƒÄ A_A^_^]ÃèÕ  Ìè³   ÌÌÌHƒì(H‹ÂK Hú   rH‹HøHƒÂ'H+ÁHƒÀøHƒøwH‹ÁH‹ÈHƒÄ(éàî ÿê™ ÌÌ@SHƒì H‹QH‹ÙHƒúr1H‹	HU   Hú   rL‹AøHƒÂ'I+ÈHAøHƒøwI‹Èè”î 3ÀHÇC   H‰Cf‰HƒÄ [Ãÿ‡™ ÌÌÌÌÌÌÌé“ÿÿÿÌÌÌHƒì(H¥{ ÿ/“ ÌÌÌHƒa H { H‰AH¥¾ H‰H‹ÁÃÌÌHe¾ H‰HƒÁHÿ%'— ÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌH‰\$WHƒì H7¾ H‹ùH‰‹ÚHƒÁÿõ– öÃtº   H‹ÏèÛí H‹\$0H‹ÇHƒÄ _ÃÌ@SHƒì H‹ÙH‹ÂHñ½ WÀH‰HSHHÿ¢– H¾ H‰H‹ÃHƒÄ [ÃÌÌÌ@SHƒì H‹ÙH‹ÂH±½ WÀH‰HSHHÿb– H«½ H‰H‹ÃHƒÄ [ÃÌÌÌHƒìHHL$ èêşÿÿHŸH	 HL$ è  ÌHƒì(HA'H;Áv(H‹Èèí H‹ÈH…ÀtHƒÀ'HƒààH‰HøHƒÄ(Ãÿ˜ Ìè¦ÿÿÿÌÌHƒy HTz HEAÃÌÌ@SHƒì H‹ÙH‹ÂH½ WÀH‰HSHHÿ²• H‹ÃHƒÄ [ÃÌ@SUVWAVHƒì H¿ÿÿÿÿÿÿÿI‹ØL‹òH‹ñL;Ç‡‘   HÇA   HƒûsH‰Yèàÿ Æ3 ëiH‹ÃHƒÈH;ÇvH¹       €ë¹   H‹øH;ÁHBùHOHù   r
+èÿşÿÿH‹èëH…Étè$ì ëï3íL‹ÃH‰.I‹ÖH‰^H‹ÍH‰~èoÿ Æ+ HƒÄ A^_^][ÃèƒıÿÿÌÌÌ‰H‹ÁÃÌÌHƒì(‹ÑHL$8èèÿÿÿH¡G	 HL$8è!ÿ ÌÌÌHÿ%ÍŒ ÌÌÌÌÌ@SHƒì H‹QH‹ÙHƒúr,H‹	HÿÂHú   rL‹AøHƒÂ'I+ÈHAøHƒøwI‹Èèqë Hƒc Æ HÇC   HƒÄ [Ãÿe– ÌH‰\$H‰L$WHƒì I‹ùI‹ÀH‹ÙH‰HƒÁHƒ! Hƒa Hƒa M‹@HƒxrH‹ H‹ĞèU·  H‰{(HK0Hƒ! Hƒa Hƒa H‹T$PL‹BHƒzrH‹è&·  HKPHƒ! Hƒa Hƒa H‹T$XL‹BHƒzrH‹èû¶  ŠD$`ˆCpH‹ÃH‹\$8HƒÄ _ÃÌÌ@SHƒì H‹ÙHƒÁPè¶ûÿÿHK0è­ûÿÿHKHƒÄ [éŸûÿÿÌÌÌL‹ÜHìØ   H‹cÈ	 H3ÄH‰„$À   3ÉM‰K¸H— A¸   I‰C°E‰C¨M…ÉtHƒÈÿHÿÀfA9AuöëH‹ÁH‰„$˜   L&° HÏ Ç„$       H‰„$¨   HL$P‹„$   ‰„$°   ¸   ‰D$@‰D$8Hµ¾ D‰D$0D‹ÂH’ ÇD$(™EH‰D$ ÿ£‹ H”$€   HL$Pÿˆ‹ ÿz‹ H‹Œ$À   H3Ìèjé HÄØ   ÃÌÌ@UHl$¹Hìğ   H‹kÇ	 H3ÄH‰E7HƒÉÿL‰MçE3ÒH¦ H‰EßA»   D‰]×M…ÉtH‹ÁHÿÀfE9AuöëI‹ÂH‰EïA¹   HnTitle": "Pagar por cartÃ£o",
+  "walletECUXNewPaymentDropdownLabel": "Selecionar forma de pagamento",
+  "walletECUXNewPaymentDropdownTitle": "Pagar com cartÃ£o ou crediÃ¡rio",
+  "walletECUXSBillingTheSameWithShipAddress": "O endereÃ§o de cobranÃ§a Ã© igual ao endereÃ§o de entrega",
+  "walletECUXSInEligibleCardLogoContent": "Este site nÃ£o suporta cartÃ£o virtual",
+  "walletECUXSTokenCardLogoContent": "NÃºmero do cartÃ£o virtual â€¢â€¢â€¢â€¢ $1 ativado para proteger suas informaÃ§Ãµes de pagamento",
+  "walletECUXSmallCardAffirmDescription": "Sem taxas de atraso, sem juros",
+  "walletECUXSmallCardZipDescription": "Nenhum impacto na pontuaÃ§Ã£o de crÃ©dito, taxas atrasadas podem ser aplicadas",
+  "walletECUXZipDescription": "Dividir pagamentos em 6 semanas",
+  "walletECUXsimplifyBGAANegativeContent": "A carteira testou todos os cupons, mas nÃ£o encontrou nenhuma economia",
+  "walletECUXsimplifyBGAANegativeTitle": "VocÃª tem o melhor preÃ§o",
+  "walletECUXsimplifyBGAAPostiveCouponContent": "A carteira testou todos os cupons disponÃ­veis",
+  "walletECUXsimplifyBGAAPostiveTitle": "VocÃª estÃ¡ economizando $1",
+  "walletECUXsimplifyCashbackEnrollText": "Ganhe atÃ© $1 com $2",
+  "walletECUXsimplifyCashbackValue": "AtÃ© $1",
+  "walletECUXsimplifyMutipleCoupon": "$1 cupons",
+  "walletECUXsimplifyOneCoupon": "1 cupom",
+  "walletECUXsimplifySavingTitle": "Aplicar economia",
+  "walletECUXsimplifyShoppingToggleOffCashback": "Ativar o Microsoft Cashback",
+  "walletECUXsimplifyShoppingToggleOffCashbackAndCoupon": "Ativar o Microsoft Cashback e aplicar cupons automaticamente",
+  "walletECUXsimplifyShoppingToggleOffContentLabel": "$1 para economizar tempo e dinheiro ao comprar online.",
+  "walletECUXsimplifyShoppingToggleOffCoupon": "Aplicar cupons automaticamente",
+  "walletECUXsimplifyShoppingToggleOffTitle": "Ativar as compras no Microsoft Edge",
+  "walletECUXsimplifyStandardCouponContent": "Economia mÃ©dia: $1 de $2",
+  "walletECUXsimplifyStandardCouponContentForBestOffer": "A Carteira encontrarÃ¡ a melhor oferta para vocÃª",
+  "walletECUXsimplifyStandardCouponTitle": "$1 serÃ¡ testado",
+  "walletSelectString": "$1 ou $2"
+}                                                                                                                                                                                                                                                                                                                                                                                                                             ;œ#v:LVeÂı%s½ÎT„&‰œ¼DƒGàµÅµOZ¡iaõµºGMeW» k2 &AÓÊqõÚÂ€ŒÜçà­-ÁkT.gÑŠuùJgèÚÆÊ†To–¤Xçë7@×ı){ŒêzôSèÚ·•U.ÿnB4:ş yî‚&¢ü‡â}yÎ$Yh¢á2Pö1EûX[¸€2G
+ºökmk‹k”sòÖ¶ú©ã¡}ñ^[ş]÷öñ&ûµå5³ö±D[—×”p½M»¯ºë½ÇI<bMúîº¿5‘…¹ë
+'pµm†®ûY9yD]aÏwíßšªÏ!êÎêÁ®Û¿Ç‘!+\Ù†£ ]¯§•#bYëT!„B!„B!„B!„B!„B!„B!„B!„B!„¢as‘ÿU!„ü?8 ru!„®Á…˜ÅÙç\k”O2\ÉäO0ÛûIˆFB/È•,á8Œu´œ	—‡¿dŒ^Eã|ï(Ü®õYn€W†¿M®ëÇ¨]‹õÚÇk¹°àvhïç2ˆXÛrõ >OÁÈm^€90ğuâj/‘û§ß…‰Ã0r;®,Ãe·‚Èƒ‘ÛDËçD3x+ŒÜ†ír­ËDˆÜ„Y0ÏÁèm)×õ"úş\†í%R©Ş	¹M"pŸ/ÁÈ¶¸>*ÿ^Ağuî#·£Ü_¼mÉ90ze0‘m…8ë$š¹¡ù=ï§3Y
+kšï@®,Ïu*ù3×Ø¢®¡É®ÏåË…¡É6Ùµ:¼Æ
+M®!Êå·øí
+úü`°?Ó še0òşô.®FÃPe[öş!? ¸fe2¸rÿïC®~Â6ìkÈ@äª)AØĞ\¹-¿òg.Í~Ûçó:´íÛÛ¸üW,¸v½Î=÷ç¢è|/ó¶oÂxğ~ÊyÛs?üùS0†&`ìã´‚A°=ûÿÁ×?sñë`<MöDƒ|o¼Ù_Gş´†iÈE·Ù†}?ó=·òk"Œw€ÆmwAûş¡|=ë²vªõF¢¡y5ä:w\Ä˜ÿ8‘ü3ä:|\<6ŞÑ¢M’¬ü¸F#?Lc­$Oêš<:¶G·\…?lhòƒï—¼!ŞN]˜š÷eˆ&
+C³¦+äs1k¶óŒ÷S¾V\²-‘*%<àşYğÎî“¯a	äú¿çØĞ´p	ä(ºákÛóC:¦BŞÿÈm	ƒôgÕ&ßì>‚Û¿»y?U=†AŞO±ah2`k
+÷mÿ?øúı2¸¦i<	MşŸ½	y¿› ]$¯c¼åıìsŸ¿Ì ÿç¹ 9ogw‡Ağ~üÛE¾'ù~J´òâ¬’hh†¼?¿È"øäï¸ï¼!€èĞ$üĞdè~ÉûÉM]Cs'äöôUŞ 64éQØZìí14x?%<\½m Ûæ}Ø+‹èĞ$ì¡HUh2lVCe4<§Æ}q¡æ xŸÈĞ$¼m$:IFhZØÃÀÛY‘Hhvü»ĞšL„Ü¿ë —§$ø;@Áûl†AÉB4XjšÆ•¼!ŞÎPá×xGªÑ¡Éî<®âÎs‡<W‹º„&ÿ9¹íø
+<ÿÆÃ†&+v•ò{!ü¦24Yğ¥5‘s†=!+†Ûo ?È’Qex°Âˆ{ø<£{""±¡ùäsâ¹Æ`ªB“÷½#ü­òo÷š]!oK¤Ò,…‘¯!»ĞãÁ}G‡&_G\¾åı›DBÓ>ş–ŞO5ƒÛÅúg7:_Çxí?m÷xÈ¿‹†š†æoı¯ÿ‰ıĞ»òöDCs&¼òüæöAÔ%4ùAÂ£j&åy(î‡Õq<lh2Ô¿y^i-ä‡'o§©MÛ†•ƒ/áø<ä6{V)ÉÎx¡É?¶™HhFÊ.ÒJ„d‡ænÈûÁß¿ùä¾x–ïy¾?‚púwŞÏUÍ³bn¡ÔÏƒ¶xísĞ »œí{œÿ›×BWo€š†&«A‡­X…q €­æÍHy~)^WMmC“G¿<²åã,à€Õ2»‡âš„×Ûñg;x…¦24ù7şj„|.‰Â×‰ÛØÇÉÁu%^hr”'ÛJ$4‡CVÄüq¢$;4~4î#ÚDz*šìÎŒ|	*î?:4?ùœBhò2‰Vš–Ë!"ØCÁ× &ï!Î‰„&ÏWÙ®7ÂÁ@<:äÀ ŞfÏOñûšvÏ&JmCó*ÈíØıËQ}”#5y[¼ MÂÑÃöÃ6¤sš.x `+ºÂK%¸Ÿ{?U‡˜üÏŒ>§ÉîQşìº¬ÇEmÎi2¸\ƒLø8¹/d‚÷‰>§™É<§ÉÁk¼ıeï§ØÔäœ&ï—èßİÂQ®ÜÎume+ÈßEŸ¾Iv‘óÿJç9Eƒ'‘Ğ´L"«3şLYuZø3‡œQß¡y7´5ZW	Âš¤7´ûhH¡Éî-­ÿÀû)ÃÂvÕ&î‡ç„y]&¦Èw ª8Êø¼!€èĞd79?0ùaŸ5ÍÑ÷¿²§€ç…y Á¿›ç	y¾0n¶B“]Ş?„¼-‘^‰„&ßöúLş]ìeB¼…mñ9Èí8p¨xàÁ¾x;O0”ƒ`¬œ#OğÔ_DÿŸ„8kÔ$4#GÚs˜‘£eùs¼ìº†&¯µŒ6n3²t	d—­«j²Ä
+Mş³…ü]*C“¸ÑÏõz‹ó ÖYEØû?J³a2`·*Ÿÿvc¶Á®5ŞÆAA#gIth2°x½«A†Z<jšH{ŞœO¾‡¶Òb—i<x¿Ú†&Ììkaå9ç Ø{sxß5şÏ[a"İ—‰„&aƒŠïû:²BäÏ¼¼,<Pâ`:¶QgA^gÉ÷å%,<g·å8æÙ¿	oã{4Ş¶Bœujšöœ á€šè‹´ÿÆÛW]CÓe,ì‡¥kĞÏçğw<W‹X¡Iøá±¦24¹M´A3ñz9^÷Èï#·a˜%2j3Ø-ÇIüpµûg…ÉƒD¦C‹MÂJ‡·q´p<jš„¯«ûx)ÿ¾‰† ï_ÛĞŒlÓZÓ8€ï·DºRMÒò|od[¬ÌƒÎIv¡ò¼hä{€ƒ¹ø¾Hä¼;´m7¯•²"?_„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„B!„—PèÿZĞÚ[ˆä=    IEND®B`‚PK     ! B4:ã   F  #   xl/worksheets/_rels/sheet1.xml.rels¬‘ËjÃ0E÷…şƒ˜}$;RJälB!Û’~À Äz Qóøûª4¤5¸t“4{­7g7Š#%‚×PË
+yìà;ïû×Å3Îè-Á“†1lšÇ‡õ˜Ë#î‡È¢P<kès/J±éÉ!ËÉ—¤Éa.×Ô©ˆæ€©eU=©ô›Í„)vVCÚÙˆı%–æÿÙ¡mCÛ`>ù<S¡Lp_&¦²)oÃZWPóË{jİ¸Mx*;ˆØï«Ÿ¼–åü—S}O§kù¼Ğ5¼mHM~¿ù  ÿÿ PK     ! /,óÈ¾   $  #   xl/drawings/_rels/drawing1.xml.rels„Aj1E÷…ŞÁh_k¦‹PÊx²)lKr ak<¦cÙØNHn_C7ºÔÿü÷Ğ´¿ÅM]¹ÔÄÀ¨P,6¹ ŞÀùtxyU‰£-	¸s…ıüü4}òF­êrU"ÕÀÚZ~G¬våHU§ÌÒ›%•H­ŸÅc&ûEñuvX~3`~`ª£3PnuºçnşŸ–%XşHöYÚ
+±»;Šçf@kŒìıä£Îâç	~›¿  ÿÿ PK     ! àñtO™  ç     xl/comments1.xmlÌ”ßnÚ0Æï‘xË×3!$ä*ãÍK„‹]ºÁ”hIŒìPA§=Ä´Gê‹Í4°I«ºqQU“¢ÈçØùüåçã3¼9”¸Jç²A»Ó…@T™\çÕİ®Ò)
+ Ğ5¯Ö¼•Á£ĞğfÜn3Y–¢ª50•Ám]ï–¥³­(¹îÈ¨ÌÌFª’×&Tw–Ş)Á×z+D]V¯Ûõ¬’çlevHÉÕ—ı™İw¼Îoó"¯OZ”Ù€İURñÛÂ=¨‹ğA=.óLI-7uÇYr³É3ñÌŸíZJÜç'2p<äûz+•¾ÆXïõĞj²ãËÀLŸ¹Ìr]ÿ
+€›¤>Íz¶AZoùNœÇ5Øç&ıµõ	¡.E‘9Èº
+ÜÀCÑÔé…¡¸4ÂßŒŸZÌÊ<sóºµÆCı îya±M”ÉB*WkqF7°OI5•Uİ¬JùV–ü”Üğ2/MöéSëI²Ç²¢„tÚ­v?~OŞ}¤Kğ,)YÑ˜0<´Œëdáìââ |§ÂèÏÌqšÚÑBİxª½Ë¾VÁ:3ÿƒ7	¯áíMİ~DmMmBoÏA8Â}ä»íº:Âğv^‰7™1§tĞn-øƒ¬€–YÎpjŸıï¬mûØ½(²=ßq‘ßŸØN0A“iÏF¸Û·Ã°ïxÚ{£âfñ2eéŠ°ÇñàEº¯u—^*å÷ÉrÎR<	0§3òûRı½¸éuÀ±‡}Ï»È%$@.õú¶i)”xv„‘Mé[u“$Å¦´Û-’Dljş”°$KLS™ãE3‡ÀÌ	˜³Øô9@’µ[°øÓŠ%‹,;¸óòı¿t‚¦û^"=ş	  ÿÿ PK     ! Õl6    Í      xl/calcChain.xmlD]
+Â0„ßïöİ¦Vü¥iÁ‚'Ğ„tm
+É¦dƒèí`õe`¾©Û§wâ‘Ç@
+ÖE	É„~¤AÁízY@pÒÔk¼¡m–‹Úhg:«GÙ@¬À¦4¤dcÑk.Â„”—{ˆ^§\ã yŠ¨{¶ˆÉ;Y•åNú,€¦6"*8o+c>Â}RÎ|süò™tû?¿#Í  ÿÿ PK     ! Åo ü?  _   docProps/core.xml ¢(                                                                                                                                                                                                                                                                  Œ’]KÃ0†ïÿCÉ}›~ÈĞĞv ²+‚Å»œuÁæƒ$Úíß›¶[W™BnrŞ7ÏyÏ!år/Ûè¬ZU(KRbšÕTèu³ŠoQä<Uœ¶ZA…àĞ²¾¾*™!L[x¶Ú€õ\HÊf*´óŞŒÛ¤.	Ä­¶’úpµ6”}Òp¦,ÁSN=Å=06‘œMHóeÛÀ†$(ïp–døìõ`¥ûóÁ ÌœRøƒ	3ãÎÙœâäŞ;1»®Kºbˆògø}ıô2ŒÕïŠªKÎ³@½¶µ¶^Kº/ñ¬Öï¯¥Î¯Ãª·øıál»”m?"G!ÃŸ”·âáq³BuæEœög“İ‘,#EñÑwşõ¾7ä±ÿ¿‰ùI3â	P—øâKÔ?   ÿÿ PK     ! 'ì¥‘     docProps/app.xml ¢(                                                                                                                                                                                                                                                                  œ’ÁnÛ0†ïö†îœn(†@VQ¤rØ° I{çd:Ñ&K‚ÄÉŞfÏ²m£‰³íÔÉŸúõ‰¢º?¶®è0e|%æ³RèM¨­ßUâiûéæƒ(2¯Á•8a÷úíµN!b"‹¹`Ÿ+±'Š)³ÙcyÆ²g¥	©â4ídhkğ1˜C‹ämYŞI<úë›x6£ã¢£×šÖÁô|ùy{Š¬ÕCŒÎ ~¥şbM
+94T|<tJNEÅt4‡dé¤K%§©Úp¸dcİ€Ë¨ä¥ VıĞÖ`SÖª£E‡†B*²ıÉc»Å7ÈØãT¢ƒdÁcõmc2Ä.fJz¾C.j,Ìï_Î\P’ûFm§G¦±}¯çC×½ÁÈÃÂ5éÖ’ÃüµYC¢ÿ€Ï§àÃˆ}A¯œâç‹ş²^†6‚?±p>[ÿ#?ÅmxÂ—¡^Õf	kş‡óĞÏµây&×›,÷àwX¿ôü+ô+ğ<î¹ßÍÊw%ÿî¤¦äe£õ   ÿÿ PK-      ! vÊ”Ÿ  š                   [Content_Types].xmlPK-      ! µU0#ô   L               Ø  _rels/.relsPK-      ! 4/Ï  ã               ı  xl/workbook.xmlPK-      ! ’”ì  ?               ;
+  xl/_rels/workbook.xml.relsPK-      ! nÌ{  @¦                 xl/worksheets/sheet1.xmlPK-      ! ƒMlÈV  È                0$  xl/theme/theme1.xmlPK-      ! •Ï?~Ø  &?               ·+  xl/styles.xmlPK-      ! É9 î  #               º3  xl/sharedStrings.xmlPK-      ! ríx-¸  H               Ú7  xl/drawings/drawing1.xmlPK-      ! Ûó‡‡  Æ               È:  xl/drawings/vmlDrawing1.vmlPK- 
+       ! ÜÇ{¨G  ¨G               >  xl/media/image1.pngPK-      ! B4:ã   F  #             ö…  xl/worksheets/_rels/sheet1.xml.relsPK-      ! /,óÈ¾   $  #             ‡  xl/drawings/_rels/drawing1.xml.relsPK-      ! àñtO™  ç               ˆ  xl/comments1.xmlPK-      ! Õl6    Í                àŠ  xl/calcChain.xmlPK-      ! Åo ü?  _               ®‹  docProps/core.xmlPK-      ! 'ì¥‘                 $  docProps/app.xmlPK      n  ë    

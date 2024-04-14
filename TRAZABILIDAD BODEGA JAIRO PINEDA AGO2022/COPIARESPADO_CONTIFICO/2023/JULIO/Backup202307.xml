@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+	<ruc>0957116478001</ruc>
+	<razon_social><![CDATA[PINEDA CORAL JAIRO DARIO]]></razon_social>
+	<anio>2023</anio>
+	<mes>07</mes>
+	<movimientos>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>4508.90</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43304592</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE SEMINARIO TAPIA JESUS CI 0912133527 DR MORENO SEGURO MSP CX 21-06-2023 INGRESO- 5000438512 ORDEN-4300106872]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>3929.86</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261577</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE VERA RAMIREZ CARLOS RUBEN DR VARGAS SEGURO MSP CX 23-06-2023 INGRESO-5000437577 ORDEN- 4300106541]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>3358.21</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43271317</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CASTILLO LEY LUISA HC 4138201 DR TRUJILLO SEGURO IESS CX 18-06-2023 INGRESO-5000435416  ORDEN-4300105889]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>3326.40</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43272679</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE PARRALES MENDOZA JAMALIT CI 0940678337 DR VARGAS SEGURO MSP CX 19-06-2023    INGRESO-5000435422 ORDEN- 4300105886]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>3239.94</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261163</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE GUARANDA GARCIA DIGNA CI 1303955775 HC 4284151 DR TRUJILLO SEGURO MSP CX13-06-2023 INGRESO -5000431482 ORDEN-4300104485]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>2929.47</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43262556</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE MARQUEZ VITE LUIS ANDRES CI 0924899032 DR RODRIGUEZ SEGURO GENERAL CX 23-06-2023 INGRESO-5000437977 ORDEN- 4300106558]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>2397.96</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43276223</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE BARCO CANDELARIO HENRRY CI 0915941926 DR VARGAS SEGURO MSP CX 16-06-2023  INGRESO-5000436952 ORDEN 4300106231]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>1958.88</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43306470</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE AMADOR LEON ENRIQUE CI 0903923456 DR TRUJILLO SEGURO IESS CX 25-06-2023 INGRESO-5000438401 ORDEN 4300106793]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>1907.14</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43263259</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE LUIS ALBERTO OROSCO ARBOLEDA CI 17200915089 DR MORENO SEGURO SPPAT CX 19-06-2023 INGRESO-5000435504 ORDEN 4300105941]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>1404.48</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43260555</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CORONADO BORJA LUIS  CI 0903809275 DR MORENO SEGURO IESS CX 09-06-2023 INGRESO-5000431451 ORDEN 4300104671]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>1005.31</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43307189</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE POZO BELTRAN LUIS HC 4222601 DR MORIERA SEGURO MSP CX 27-06-2023 INGRESO 5000438560 ORDEN 4300106882]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>354.82</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43262556</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE MARQUEZ VITE LUIS ANDRES CI 0924899032 DR RODRIGUEZ SEGURO GENERAL CX 23-06-2023 INGRESO-5000437977 ORDEN- 4300106558]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1718.64</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43271317</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CASTILLO LEY LUISA HC 4138201 DR TRUJILLO SEGURO IESS CX 18-06-2023 INGRESO-5000435416  ORDEN-4300105889]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1254.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43306470</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE AMADOR LEON ENRIQUE CI 0903923456 DR TRUJILLO SEGURO IESS CX 25-06-2023 INGRESO-5000438401 ORDEN 4300106793]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1227.60</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261163</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE GUARANDA GARCIA DIGNA CI 1303955775 HC 4284151 DR TRUJILLO SEGURO MSP CX13-06-2023 INGRESO -5000431482 ORDEN-4300104485]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1190.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261577</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE VERA RAMIREZ CARLOS RUBEN DR VARGAS SEGURO MSP CX 23-06-2023 INGRESO-5000437577 ORDEN- 4300106541]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1190.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1190.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43272679</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE PARRALES MENDOZA JAMALIT CI 0940678337 DR VARGAS SEGURO MSP CX 19-06-2023    INGRESO-5000435422 ORDEN- 4300105886]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1190.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43304592</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE SEMINARIO TAPIA JESUS CI 0912133527 DR MORENO SEGURO MSP CX 21-06-2023 INGRESO- 5000438512 ORDEN-4300106872]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1190.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261577</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE VERA RAMIREZ CARLOS RUBEN DR VARGAS SEGURO MSP CX 23-06-2023 INGRESO-5000437577 ORDEN- 4300106541]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1188.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43272679</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE PARRALES MENDOZA JAMALIT CI 0940678337 DR VARGAS SEGURO MSP CX 19-06-2023    INGRESO-5000435422 ORDEN- 4300105886]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1188.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43304592</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE SEMINARIO TAPIA JESUS CI 0912133527 DR MORENO SEGURO MSP CX 21-06-2023 INGRESO- 5000438512 ORDEN-4300106872]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1100.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>990.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43276223</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE BARCO CANDELARIO HENRRY CI 0915941926 DR VARGAS SEGURO MSP CX 16-06-2023  INGRESO-5000436952 ORDEN 4300106231]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>990.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261163</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE GUARANDA GARCIA DIGNA CI 1303955775 HC 4284151 DR TRUJILLO SEGURO MSP CX13-06-2023 INGRESO -5000431482 ORDEN-4300104485]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>924.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43263259</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE LUIS ALBERTO OROSCO ARBOLEDA CI 17200915089 DR MORENO SEGURO SPPAT CX 19-06-2023 INGRESO-5000435504 ORDEN 4300105941]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>924.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>792.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43260555</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CORONADO BORJA LUIS  CI 0903809275 DR MORENO SEGURO IESS CX 09-06-2023 INGRESO-5000431451 ORDEN 4300104671]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>594.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43271317</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CASTILLO LEY LUISA HC 4138201 DR TRUJILLO SEGURO IESS CX 18-06-2023 INGRESO-5000435416  ORDEN-4300105889]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>594.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>594.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>483.10</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43304592</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE SEMINARIO TAPIA JESUS CI 0912133527 DR MORENO SEGURO MSP CX 21-06-2023 INGRESO- 5000438512 ORDEN-4300106872]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>440.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>421.06</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43306470</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE AMADOR LEON ENRIQUE CI 0903923456 DR TRUJILLO SEGURO IESS CX 25-06-2023 INGRESO-5000438401 ORDEN 4300106793]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>369.60</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261577</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE VERA RAMIREZ CARLOS RUBEN DR VARGAS SEGURO MSP CX 23-06-2023 INGRESO-5000437577 ORDEN- 4300106541]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>359.81</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43271317</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CASTILLO LEY LUISA HC 4138201 DR TRUJILLO SEGURO IESS CX 18-06-2023 INGRESO-5000435416  ORDEN-4300105889]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>356.40</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43272679</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE PARRALES MENDOZA JAMALIT CI 0940678337 DR VARGAS SEGURO MSP CX 19-06-2023    INGRESO-5000435422 ORDEN- 4300105886]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>347.14</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43271317</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CASTILLO LEY LUISA HC 4138201 DR TRUJILLO SEGURO IESS CX 18-06-2023 INGRESO-5000435416  ORDEN-4300105889]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>316.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43307189</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE POZO BELTRAN LUIS HC 4222601 DR MORIERA SEGURO MSP CX 27-06-2023 INGRESO 5000438560 ORDEN 4300106882]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>316.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261163</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE GUARANDA GARCIA DIGNA CI 1303955775 HC 4284151 DR TRUJILLO SEGURO MSP CX13-06-2023 INGRESO -5000431482 ORDEN-4300104485]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>313.87</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>308.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43262556</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE MARQUEZ VITE LUIS ANDRES CI 0924899032 DR RODRIGUEZ SEGURO GENERAL CX 23-06-2023 INGRESO-5000437977 ORDEN- 4300106558]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>256.92</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>231.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43276223</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE BARCO CANDELARIO HENRRY CI 0915941926 DR VARGAS SEGURO MSP CX 16-06-2023  INGRESO-5000436952 ORDEN 4300106231]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>231.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>231.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43304592</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE SEMINARIO TAPIA JESUS CI 0912133527 DR MORENO SEGURO MSP CX 21-06-2023 INGRESO- 5000438512 ORDEN-4300106872]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>220.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43276223</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE BARCO CANDELARIO HENRRY CI 0915941926 DR VARGAS SEGURO MSP CX 16-06-2023  INGRESO-5000436952 ORDEN 4300106231]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>209.88</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43306470</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE AMADOR LEON ENRIQUE CI 0903923456 DR TRUJILLO SEGURO IESS CX 25-06-2023 INGRESO-5000438401 ORDEN 4300106793]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>204.34</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261163</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE GUARANDA GARCIA DIGNA CI 1303955775 HC 4284151 DR TRUJILLO SEGURO MSP CX13-06-2023 INGRESO -5000431482 ORDEN-4300104485]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>198.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43260555</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CORONADO BORJA LUIS  CI 0903809275 DR MORENO SEGURO IESS CX 09-06-2023 INGRESO-5000431451 ORDEN 4300104671]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>158.40</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43263259</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE LUIS ALBERTO OROSCO ARBOLEDA CI 17200915089 DR MORENO SEGURO SPPAT CX 19-06-2023 INGRESO-5000435504 ORDEN 4300105941]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>150.48</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261577</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE VERA RAMIREZ CARLOS RUBEN DR VARGAS SEGURO MSP CX 23-06-2023 INGRESO-5000437577 ORDEN- 4300106541]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43263259</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE LUIS ALBERTO OROSCO ARBOLEDA CI 17200915089 DR MORENO SEGURO SPPAT CX 19-06-2023 INGRESO-5000435504 ORDEN 4300105941]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43272679</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE PARRALES MENDOZA JAMALIT CI 0940678337 DR VARGAS SEGURO MSP CX 19-06-2023    INGRESO-5000435422 ORDEN- 4300105886]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43304592</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE SEMINARIO TAPIA JESUS CI 0912133527 DR MORENO SEGURO MSP CX 21-06-2023 INGRESO- 5000438512 ORDEN-4300106872]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>132.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>110.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43260555</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CORONADO BORJA LUIS  CI 0903809275 DR MORENO SEGURO IESS CX 09-06-2023 INGRESO-5000431451 ORDEN 4300104671]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>107.71</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261577</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE VERA RAMIREZ CARLOS RUBEN DR VARGAS SEGURO MSP CX 23-06-2023 INGRESO-5000437577 ORDEN- 4300106541]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>105.60</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43262556</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE MARQUEZ VITE LUIS ANDRES CI 0924899032 DR RODRIGUEZ SEGURO GENERAL CX 23-06-2023 INGRESO-5000437977 ORDEN- 4300106558]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>105.60</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>105.60</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>105.60</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>105.60</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43271317</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CASTILLO LEY LUISA HC 4138201 DR TRUJILLO SEGURO IESS CX 18-06-2023 INGRESO-5000435416  ORDEN-4300105889]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>105.60</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>105.60</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43306470</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE AMADOR LEON ENRIQUE CI 0903923456 DR TRUJILLO SEGURO IESS CX 25-06-2023 INGRESO-5000438401 ORDEN 4300106793]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>105.60</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43276223</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE BARCO CANDELARIO HENRRY CI 0915941926 DR VARGAS SEGURO MSP CX 16-06-2023  INGRESO-5000436952 ORDEN 4300106231]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>77.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>77.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>77.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261163</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE GUARANDA GARCIA DIGNA CI 1303955775 HC 4284151 DR TRUJILLO SEGURO MSP CX13-06-2023 INGRESO -5000431482 ORDEN-4300104485]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261577</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE VERA RAMIREZ CARLOS RUBEN DR VARGAS SEGURO MSP CX 23-06-2023 INGRESO-5000437577 ORDEN- 4300106541]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43263259</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE LUIS ALBERTO OROSCO ARBOLEDA CI 17200915089 DR MORENO SEGURO SPPAT CX 19-06-2023 INGRESO-5000435504 ORDEN 4300105941]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43272679</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE PARRALES MENDOZA JAMALIT CI 0940678337 DR VARGAS SEGURO MSP CX 19-06-2023    INGRESO-5000435422 ORDEN- 4300105886]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43276223</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE BARCO CANDELARIO HENRRY CI 0915941926 DR VARGAS SEGURO MSP CX 16-06-2023  INGRESO-5000436952 ORDEN 4300106231]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43304592</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE SEMINARIO TAPIA JESUS CI 0912133527 DR MORENO SEGURO MSP CX 21-06-2023 INGRESO- 5000438512 ORDEN-4300106872]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>66.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43260555</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CORONADO BORJA LUIS  CI 0903809275 DR MORENO SEGURO IESS CX 09-06-2023 INGRESO-5000431451 ORDEN 4300104671]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>52.80</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>52.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261163</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE GUARANDA GARCIA DIGNA CI 1303955775 HC 4284151 DR TRUJILLO SEGURO MSP CX13-06-2023 INGRESO -5000431482 ORDEN-4300104485]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>52.80</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>52.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43261577</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE VERA RAMIREZ CARLOS RUBEN DR VARGAS SEGURO MSP CX 23-06-2023 INGRESO-5000437577 ORDEN- 4300106541]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>52.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43266060</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CHELE SANCAN JULIO CI 0927161513 DR MORENO SEGURO MSP CX 20-06-2023 INGRESO 5000437982 ORDEN-4300106537]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>52.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43272679</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE PARRALES MENDOZA JAMALIT CI 0940678337 DR VARGAS SEGURO MSP CX 19-06-2023    INGRESO-5000435422 ORDEN- 4300105886]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>52.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43304592</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE SEMINARIO TAPIA JESUS CI 0912133527 DR MORENO SEGURO MSP CX 21-06-2023 INGRESO- 5000438512 ORDEN-4300106872]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>52.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43260555</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE CORONADO BORJA LUIS  CI 0903809275 DR MORENO SEGURO IESS CX 09-06-2023 INGRESO-5000431451 ORDEN 4300104671]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>39.60</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43307189</codigo>
+			<fecha>03/07/2023</fecha>
+			<glosa><![CDATA[PACTE POZO BELTRAN LUIS HC 4222601 DR MORIERA SEGURO MSP CX 27-06-2023 INGRESO 5000438560 ORDEN 4300106882]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>38.02</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43476887</codigo>
+			<fecha>05/07/2023</fecha>
+			<glosa><![CDATA[PACTE ACOSTA GAVILANEZ JUAN CI 0925844896 DR RODRIGUEZ SEGURO SOAT CX 30-06-2023 INGRESO - 5000439190 ORDEN- 4300107013]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>2558.08</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43505177</codigo>
+			<fecha>05/07/2023</fecha>
+			<glosa><![CDATA[PACTE SARRIA SILVIA LIZETH AMALIA CI 20142659 DR MARQUEZ SEGURO IESS CX 03-07-2023 NUMERO DOCUMENTO 4300000794]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[1.1.2.5.1 - Clientes Comerciales]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>752.64</debe>
+					<haber>0.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43476887</codigo>
+			<fecha>05/07/2023</fecha>
+			<glosa><![CDATA[PACTE ACOSTA GAVILANEZ JUAN CI 0925844896 DR RODRIGUEZ SEGURO SOAT CX 30-06-2023 INGRESO - 5000439190 ORDEN- 4300107013]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>1800.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43505177</codigo>
+			<fecha>05/07/2023</fecha>
+			<glosa><![CDATA[PACTE SARRIA SILVIA LIZETH AMALIA CI 20142659 DR MARQUEZ SEGURO IESS CX 03-07-2023 NUMERO DOCUMENTO 4300000794]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>432.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43476887</codigo>
+			<fecha>05/07/2023</fecha>
+			<glosa><![CDATA[PACTE ACOSTA GAVILANEZ JUAN CI 0925844896 DR RODRIGUEZ SEGURO SOAT CX 30-06-2023 INGRESO - 5000439190 ORDEN- 4300107013]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>274.08</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>181.50</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>121.00</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43505177</codigo>
+			<fecha>05/07/2023</fecha>
+			<glosa><![CDATA[PACTE SARRIA SILVIA LIZETH AMALIA CI 20142659 DR MARQUEZ SEGURO IESS CX 03-07-2023 NUMERO DOCUMENTO 4300000794]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[2.1.7.4.1 - IVA sobre Ventas]]></cuenta>
+					<centro_costo><![CDATA[]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>80.64</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>76.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43476887</codigo>
+			<fecha>05/07/2023</fecha>
+			<glosa><![CDATA[PACTE ACOSTA GAVILANEZ JUAN CI 0925844896 DR RODRIGUEZ SEGURO SOAT CX 30-06-2023 INGRESO - 5000439190 ORDEN- 4300107013]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>60.50</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>60.50</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>60.50</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+		<movimiento>
+			<codigo>43505177</codigo>
+			<fecha>05/07/2023</fecha>
+			<glosa><![CDATA[PACTE SARRIA SILVIA LIZETH AMALIA CI 20142659 DR MARQUEZ SEGURO IESS CX 03-07-2023 NUMERO DOCUMENTO 4300000794]]></glosa>
+			<detalles>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>38.40</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>38.40</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>28.80</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>28.80</haber>
+				</detalle>
+				<detalle>
+					<cuenta><![CDATA[4.1.1 - Venta de Bienes]]></cuenta>
+					<centro_costo><![CDATA[2 - Bodega Jairo Pineda Coral]]></centro_costo>
+					<debe>0.00</debe>
+					<haber>28.80</haber>
+				</detalle>
+			</detalles>
+		</movimiento>
+	</movimientos>
+</empresa>

@@ -1,0 +1,341 @@
+Sub ortomax01()
+'
+' ortomax01 Macro
+'
+
+'
+    ActiveCell.FormulaR1C1 = "=CONCATENATE(RC[-14],RC[-13])"
+    Columns("O:O").EntireColumn.AutoFit
+    Range("P23").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-1],'[BEQUIPOS.xlsx]Reporte saldos'!C3:C14,7,0)"
+    ActiveCell.FormulaR1C1 = _
+        "=IFERROR(VLOOKUP(RC[-1],'[BEQUIPOS.xlsx]Reporte saldos'!C3:C14,7,0),""NO_EXISTE"")"
+    Range("P24").Select
+    Columns("P:P").EntireColumn.AutoFit
+    Range("Q23").Select
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 3
+    Range("O22").Select
+    ActiveCell.FormulaR1C1 = "CODIGO_LOTE"
+    Range("P22").Select
+    ActiveCell.FormulaR1C1 = "LOTE"
+    Range("O21").Select
+    ActiveCell.FormulaR1C1 = "EQUIPOS_QUIRURGICOS"
+    Range("O21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 65535
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Range("O22").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent6
+        .TintAndShade = 0.799981688894314
+        .PatternTintAndShade = 0
+    End With
+    Range("P22").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent6
+        .TintAndShade = 0.799981688894314
+        .PatternTintAndShade = 0
+    End With
+    Range("Q22").Select
+    ActiveCell.FormulaR1C1 = "CANTIDAD"
+    Range("Q22").Select
+    ActiveCell.FormulaR1C1 = "STOCK"
+    Range("Q23").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-2],'[BEQUIPOS.xlsx]Reporte saldos'!C3:C14,11,0)"
+    ActiveCell.FormulaR1C1 = _
+        "=IFERROR(VLOOKUP(RC[-2],'[BEQUIPOS.xlsx]Reporte saldos'!C3:C14,11,0),""NO_EXISTE"")"
+    Range("O21:Q21").Select
+    With Selection
+        .HorizontalAlignment = xlCenter
+        .WrapText = False
+        .Orientation = 0
+        .AddIndent = False
+        .IndentLevel = 0
+        .ShrinkToFit = False
+        .ReadingOrder = xlContext
+        .MergeCells = False
+    End With
+    Selection.Merge
+    Range("O22:Q22").Select
+    With Selection
+        .HorizontalAlignment = xlCenter
+        .WrapText = False
+        .Orientation = 0
+        .AddIndent = False
+        .IndentLevel = 0
+        .ShrinkToFit = False
+        .ReadingOrder = xlContext
+        .MergeCells = False
+    End With
+    Selection.Borders(xlDiagonalDown).LineStyle = xlNone
+    Selection.Borders(xlDiagonalUp).LineStyle = xlNone
+    With Selection.Borders(xlEdgeLeft)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeTop)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeBottom)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeRight)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlInsideVertical)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlInsideHorizontal)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection
+        .HorizontalAlignment = xlCenter
+        .VerticalAlignment = xlCenter
+        .WrapText = False
+        .Orientation = 0
+        .AddIndent = False
+        .IndentLevel = 0
+        .ShrinkToFit = False
+        .ReadingOrder = xlContext
+        .MergeCells = False
+    End With
+    Range("O23:Q23").Select
+    With Selection
+        .HorizontalAlignment = xlLeft
+        .VerticalAlignment = xlCenter
+        .WrapText = False
+        .Orientation = 0
+        .AddIndent = False
+        .IndentLevel = 0
+        .ShrinkToFit = False
+        .ReadingOrder = xlContext
+        .MergeCells = False
+    End With
+    Range("Q23").Select
+    With Selection
+        .HorizontalAlignment = xlCenter
+        .VerticalAlignment = xlCenter
+        .WrapText = False
+        .Orientation = 0
+        .AddIndent = False
+        .IndentLevel = 0
+        .ShrinkToFit = False
+        .ReadingOrder = xlContext
+        .MergeCells = False
+    End With
+    Range("O23:Q23").Select
+    Selection.Borders(xlDiagonalDown).LineStyle = xlNone
+    Selection.Borders(xlDiagonalUp).LineStyle = xlNone
+    With Selection.Borders(xlEdgeLeft)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeTop)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeBottom)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeRight)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlInsideVertical)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlInsideHorizontal)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    ActiveWindow.SmallScroll ToRight:=1
+    Range("S21").Select
+    ActiveCell.FormulaR1C1 = "BODGA_PRINCIAPAL"
+    Range("S22").Select
+    ActiveCell.FormulaR1C1 = "CODIGO_LOTE"
+    Range("T22").Select
+    Columns("S:S").EntireColumn.AutoFit
+    ActiveCell.FormulaR1C1 = "LOTE"
+    Range("U22").Select
+    ActiveCell.FormulaR1C1 = "STOCK"
+    Range("S21:U21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent5
+        .TintAndShade = 0.799981688894314
+        .PatternTintAndShade = 0
+    End With
+    Range("S21:U21").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent5
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Range("S22:U22").Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .ThemeColor = xlThemeColorAccent6
+        .TintAndShade = 0.599993896298105
+        .PatternTintAndShade = 0
+    End With
+    Selection.Borders(xlDiagonalDown).LineStyle = xlNone
+    Selection.Borders(xlDiagonalUp).LineStyle = xlNone
+    With Selection.Borders(xlEdgeLeft)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeTop)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeBottom)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeRight)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlInsideVertical)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlInsideHorizontal)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    Columns("S:S").ColumnWidth = 34.57
+    Columns("T:T").ColumnWidth = 19.71
+    Columns("U:U").ColumnWidth = 18.14
+    Range("S23").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-4],'[BPRINCIPAL.xlsx]Reporte saldos'!C3:C14,2,0)"
+    Range("S22").Select
+    ActiveCell.FormulaR1C1 = "CODIGO"
+    Range("S23").Select
+    ActiveCell.FormulaR1C1 = _
+        "=IFERROR(VLOOKUP(RC[-4],'[BPRINCIPAL.xlsx]Reporte saldos'!C3:C14,2,0),""NO_EXISTE"")"
+    Range("T23").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-5],'[BPRINCIPAL.xlsx]Reporte saldos'!C3:C14,7,0)"
+    ActiveCell.FormulaR1C1 = _
+        "=IFERROR(VLOOKUP(RC[-5],'[BPRINCIPAL.xlsx]Reporte saldos'!C3:C14,7,0),""NO_EXISTE"")"
+    Range("U23").Select
+    ActiveCell.FormulaR1C1 = _
+        "=VLOOKUP(RC[-6],'[BPRINCIPAL.xlsx]Reporte saldos'!C3:C14,11,0)"
+    ActiveCell.FormulaR1C1 = _
+        "=IFERROR(VLOOKUP(RC[-6],'[BPRINCIPAL.xlsx]Reporte saldos'!C3:C14,11,0),""NO_EXISTE"")"
+    Range("S23:U23").Select
+    Selection.Borders(xlDiagonalDown).LineStyle = xlNone
+    Selection.Borders(xlDiagonalUp).LineStyle = xlNone
+    With Selection.Borders(xlEdgeLeft)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeTop)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeBottom)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlEdgeRight)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlInsideVertical)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    With Selection.Borders(xlInsideHorizontal)
+        .LineStyle = xlContinuous
+        .ColorIndex = 0
+        .TintAndShade = 0
+        .Weight = xlThin
+    End With
+    Range("O23:U23").Select
+    Selection.AutoFill Destination:=Range("O23:U194"), Type:=xlFillDefault
+    Range("O23:U194").Select
+    ActiveWindow.SmallScroll Down:=-162
+    Range("W22").Select
+End Sub
+
+
+
+----
+
+C:\Usuarios\nombre de usuario\AppData\Local\Microsoft\Excel\XLStart
+
+
+
+
+
