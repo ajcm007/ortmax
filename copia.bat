@@ -4,4 +4,5 @@ git add .
 
 git commit -m "copia_realizada_:"%time%
 
-pause
+git push -u origin main
+
