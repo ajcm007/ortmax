@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m "copia_realizada"%time%
+git commit -m "copia_realizada_:"%time%
 
 pause
